@@ -1,0 +1,81 @@
+<?php
+return [
+    '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
+    'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/custom/config/two_sidebars_left/index.yaml',
+    'modified' => 1589312839,
+    'data' => [
+        'name' => 'two_sidebars_left',
+        'timestamp' => 1588258336,
+        'version' => 7,
+        'preset' => [
+            'image' => 'gantry-admin://images/layouts/default.png',
+            'name' => 'default',
+            'timestamp' => 1468340932
+        ],
+        'positions' => [
+            
+        ],
+        'sections' => [
+            'navigation' => 'Navigation',
+            'intro' => 'Intro',
+            'features' => 'Features',
+            'utility' => 'Utility',
+            'above' => 'Above',
+            'testimonials' => 'Testimonials',
+            'expanded' => 'Expanded',
+            'header' => 'Header',
+            'aside' => 'Aside',
+            'sidebar' => 'Sidebar',
+            'mainbar' => 'Mainbar',
+            'footer' => 'Footer',
+            'offcanvas' => 'Offcanvas'
+        ],
+        'particles' => [
+            'custom' => [
+                'custom-6833' => 'Header',
+                'custom-6361' => 'Left Sidebar',
+                'custom-4736' => 'Lipsum',
+                'custom-9374' => 'Flexible Layouts',
+                'custom-4266' => 'Lipsum',
+                'custom-5490' => 'Content'
+            ],
+            'logo' => [
+                'logo-9890' => 'Logo / Image',
+                'logo-3489' => 'Logo / Image'
+            ],
+            'menu' => [
+                'menu-6580' => 'Menu'
+            ],
+            'social' => [
+                'social-6526' => 'Social'
+            ],
+            'copyright' => [
+                'copyright-7341' => 'Copyright'
+            ],
+            'horizontalmenu' => [
+                'horizontalmenu-4394' => 'Horizontal Menu'
+            ],
+            'totop' => [
+                'totop-8051' => 'To Top'
+            ],
+            'mobile-menu' => [
+                'mobile-menu-4839' => 'Mobile-menu'
+            ]
+        ],
+        'inherit' => [
+            'default' => [
+                'navigation' => 'navigation',
+                'footer' => 'footer',
+                'offcanvas' => 'offcanvas',
+                'logo-9890' => 'logo-9608',
+                'menu-6580' => 'menu-6409',
+                'social-6526' => 'social-3171',
+                'logo-3489' => 'logo-9571',
+                'copyright-7341' => 'copyright-1736',
+                'horizontalmenu-4394' => 'horizontalmenu-9034',
+                'totop-8051' => 'totop-8670',
+                'mobile-menu-4839' => 'mobile-menu-5697'
+            ]
+        ]
+    ]
+];
