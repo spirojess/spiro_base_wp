@@ -1,0 +1,9 @@
+enabled: '1'
+url: ''
+target: _self
+image: 'gantry-media://2020/05/acmelogo.svg'
+height: ''
+link: '1'
+svg: ''
+text: ''
+class: 'g-logo g-logo-helium'

@@ -1,7 +1,7 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/helium_home_-_particles.css',
-    'timestamp' => false,
+    'timestamp' => 1589382473,
     'md5' => '277078dfb586fd768dffb9888e49c002',
     'variables' => [
         'above-background' => '#f4f5f7',

@@ -1,0 +1,71 @@
+name: home
+timestamp: 1589380538
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1589312938
+positions:
+  header: Header
+  footer: Footer
+sections:
+  header: Header
+  navigation: Navigation
+  intro: Intro
+  features: Features
+  above: Above
+  below: Below
+  testimonials: Testimonials
+  utility: Utility
+  aside: Aside
+  sidebar: Sidebar
+  mainbar: Mainbar
+  footer: Footer
+  offcanvas: Offcanvas
+particles:
+  logo:
+    logo-2831: Logo
+  position:
+    position-position-5773: Header
+    position-position-8934: Footer
+  menu:
+    menu-8402: Menu
+  owlcarousel_spiro:
+    owlcarousel_spiro-3404: 'Owl Carousel - Spiro'
+  spiro-card:
+    spiro-card-1889: 'Spiro Card'
+    spiro-card-6563: 'Spiro Card'
+    spiro-card-9101: 'Spiro Card'
+  content:
+    system-content-6480: 'Page Content'
+  testimonial_owlcarousel:
+    testimonial_owlcarousel-5019: 'Testimonials (owlcarousel)'
+  copyright:
+    copyright-3482: Copyright
+  spacer:
+    spacer-8579: Spacer
+  branding:
+    branding-2781: Branding
+  mobile-menu:
+    mobile-menu-3873: Mobile-menu
+inherit:
+  default:
+    header: header
+    logo-2831: logo-6197
+    position-position-5773: position-header
+    navigation: navigation
+    menu-8402: menu-9135
+    above: above
+    aside: aside
+    mainbar: mainbar
+    system-content-6480: system-content-1587
+    sidebar: sidebar
+    below: below
+    utility: utility
+    footer: footer
+    position-position-8934: position-footer
+    copyright-3482: copyright-2062
+    spacer-8579: spacer-2692
+    branding-2781: branding-9862
+    offcanvas: offcanvas
+    mobile-menu-3873: mobile-menu-5741

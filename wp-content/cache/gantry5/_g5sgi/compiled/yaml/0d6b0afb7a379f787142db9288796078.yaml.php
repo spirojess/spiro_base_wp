@@ -2,29 +2,29 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/config/default/index.yaml',
-    'modified' => 1589341664,
+    'modified' => 1589381826,
     'data' => [
         'name' => 'default',
-        'timestamp' => 1589341664,
+        'timestamp' => 1589381826,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
             'name' => 'default',
-            'timestamp' => 1589312938
+            'timestamp' => 1588258328
         ],
         'positions' => [
-            'header' => 'Header',
-            'footer' => 'Footer'
+            'aside' => 'Aside',
+            'sidebar' => 'Sidebar'
         ],
         'sections' => [
-            'header' => 'Header',
             'navigation' => 'Navigation',
             'intro' => 'Intro',
             'features' => 'Features',
-            'above' => 'Above',
-            'below' => 'Below',
-            'testimonials' => 'Testimonials',
             'utility' => 'Utility',
+            'above' => 'Above',
+            'testimonials' => 'Testimonials',
+            'expanded' => 'Expanded',
+            'header' => 'Header',
             'aside' => 'Aside',
             'sidebar' => 'Sidebar',
             'mainbar' => 'Mainbar',
@@ -32,30 +32,37 @@ return [
             'offcanvas' => 'Offcanvas'
         ],
         'particles' => [
-            'logo' => [
-                'logo-6197' => 'Logo'
+            'messages' => [
+                'system-messages-7972' => 'System Messages'
             ],
-            'position' => [
-                'position-header' => 'Header',
-                'position-footer' => 'Footer'
+            'logo' => [
+                'logo-9608' => 'Logo / Image',
+                'logo-9571' => 'Logo / Image'
             ],
             'menu' => [
-                'menu-9135' => 'Menu'
+                'menu-6409' => 'Menu'
+            ],
+            'social' => [
+                'social-3171' => 'Social'
+            ],
+            'position' => [
+                'position-position-4734' => 'Aside',
+                'position-position-3949' => 'Sidebar'
             ],
             'content' => [
                 'system-content-1587' => 'Page Content'
             ],
             'copyright' => [
-                'copyright-2062' => 'Copyright'
+                'copyright-1736' => 'Copyright'
             ],
-            'spacer' => [
-                'spacer-2692' => 'Spacer'
+            'horizontalmenu' => [
+                'horizontalmenu-9034' => 'Horizontal Menu'
             ],
-            'branding' => [
-                'branding-9862' => 'Branding'
+            'totop' => [
+                'totop-8670' => 'To Top'
             ],
             'mobile-menu' => [
-                'mobile-menu-5741' => 'Mobile-menu'
+                'mobile-menu-5697' => 'Mobile-menu'
             ]
         ],
         'inherit' => [

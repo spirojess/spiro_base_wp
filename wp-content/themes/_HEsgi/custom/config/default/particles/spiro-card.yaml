@@ -1,0 +1,14 @@
+enabled: '1'
+css:
+  class: ''
+title: ''
+name: ''
+icon: fa fa-atom
+image: ''
+imageposition: left
+label: Label
+copy: Copy
+link: ''
+linktext: '&rarr;'
+buttonclass: ''
+buttontarget: _self

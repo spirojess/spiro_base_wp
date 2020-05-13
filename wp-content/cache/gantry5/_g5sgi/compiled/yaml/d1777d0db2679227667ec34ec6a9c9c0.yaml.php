@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/gantry/theme.yaml',
-    'modified' => 1589340168,
+    'modified' => 1589381051,
     'data' => [
         'details' => [
             'name' => '_g5sgi',
@@ -25,7 +25,7 @@ return [
             ],
             'copyright' => '(C) 2005 - 2019 RocketTheme, LLC. All rights reserved.',
             'license' => 'GPLv2',
-            'description' => 'Base Child theme for Gantry Hydrogen',
+            'description' => 'Base Child theme for Gantry Helium',
             'images' => [
                 'thumbnail' => 'admin/images/preset1.png',
                 'preview' => 'admin/images/preset1.png'

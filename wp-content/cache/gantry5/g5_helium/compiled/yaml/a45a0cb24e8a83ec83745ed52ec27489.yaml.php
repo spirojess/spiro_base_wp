@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/plugins/gantry5/engines/nucleus/particles/lightcase.yaml',
-    'modified' => 1589335619,
+    'modified' => 1588258328,
     'data' => [
         'name' => 'Lightcase',
         'description' => 'Flexible and responsive Lightbox Plugin.',

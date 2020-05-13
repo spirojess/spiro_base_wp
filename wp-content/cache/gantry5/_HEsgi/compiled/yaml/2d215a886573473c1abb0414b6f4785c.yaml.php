@@ -1,0 +1,95 @@
+<?php
+return [
+    '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
+    'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/config/menu/main-menu.yaml',
+    'modified' => 1589384804,
+    'data' => [
+        'ordering' => [
+            'home' => '',
+            'features' => [
+                'particles' => '',
+                'block-variations' => '',
+                'typography' => '',
+                'documentation' => '',
+                'download' => ''
+            ],
+            'pages' => [
+                'blog-page' => '',
+                'error-page' => '',
+                'offline-page' => ''
+            ],
+            'layouts' => [
+                'full-width' => '',
+                'left-sidebar' => '',
+                'right-sidebar' => '',
+                'two-sidebars' => '',
+                'two-sidebars-left' => '',
+                'two-sidebars-right' => '',
+                'rows-and-columns' => ''
+            ],
+            'styles' => ''
+        ],
+        'items' => [
+            'home' => [
+                'object_id' => 126
+            ],
+            'features' => [
+                'object_id' => 3
+            ],
+            'features/particles' => [
+                'object_id' => 46
+            ],
+            'features/block-variations' => [
+                'object_id' => 43
+            ],
+            'features/typography' => [
+                'object_id' => 9
+            ],
+            'features/documentation' => [
+                'object_id' => 2
+            ],
+            'features/download' => [
+                'object_id' => 1
+            ],
+            'pages' => [
+                'object_id' => 6
+            ],
+            'pages/blog-page' => [
+                'object_id' => 128
+            ],
+            'pages/error-page' => [
+                'object_id' => 7
+            ],
+            'pages/offline-page' => [
+                'object_id' => 118
+            ],
+            'layouts' => [
+                'object_id' => 4
+            ],
+            'layouts/full-width' => [
+                'object_id' => 62
+            ],
+            'layouts/left-sidebar' => [
+                'object_id' => 64
+            ],
+            'layouts/right-sidebar' => [
+                'object_id' => 66
+            ],
+            'layouts/two-sidebars' => [
+                'object_id' => 70
+            ],
+            'layouts/two-sidebars-left' => [
+                'object_id' => 72
+            ],
+            'layouts/two-sidebars-right' => [
+                'object_id' => 74
+            ],
+            'layouts/rows-and-columns' => [
+                'object_id' => 88
+            ],
+            'styles' => [
+                'object_id' => 5
+            ]
+        ]
+    ]
+];

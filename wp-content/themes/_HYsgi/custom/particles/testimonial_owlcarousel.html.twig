@@ -1,0 +1,83 @@
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+
+    <div class="{{ particle.class|e }}">
+        {% if particle.title %}<h2 class="g-title">{{ particle.title|raw }}</h2>{% endif %}
+
+        <div id="testimonial-{{ id }}" class="t-owlcarousel owl-carousel {% if particle.imageOverlay == 'enable' %}has-color-overlay{% endif %}">
+
+            {% for item in particle.items %}
+                {% if not item.disable %}
+                    <div class="t-owlcarousel-item {{ item.class|e }}">
+                        <div class="t-owlcarousel-item-wrapper">
+                            <div class="t-owlcarousel-item-img">
+                                <!-- <img src="{{ url(item.image)|e }}" alt="{{ item.client|e }}" /> -->
+                            </div>
+                            <div class="t-owlcarousel-item-content-container">
+                                <div class="t-owlcarousel-item-content-wrapper">
+                                    <div class="t-owlcarousel-item-content">
+                                      {% if not item.namebelow %}
+                                        {% if item.client %}
+                                          <h4 class="t-owlcarousel-item-title">{{ item.client|raw }}</h4>{% endif %}
+                                        {% if item.link %}
+                                              <p><a href="{{ item.link|e }}">{{ item.namecredit }}</a></p>
+                                            {% elseif item.namecredit %}
+                                              <p>{{ item.namecredit }}</p>
+                                            {% endif %}
+                                      {% endif %}
+                                        {% if item.quote %}
+                                            <h3 class="t-owlcarousel-item-desc">{{ item.quote|raw }}</h3>{% endif %}
+                                        {% if item.namebelow %}
+                                          {% if item.client %}
+                                            <h4 class="t-owlcarousel-item-title">{{ item.client|raw }}</h4>{% endif %}
+                                          {% if item.link %}
+                                                <p><a href="{{ item.link|e }}">{{ item.namecredit }}</a></p>
+                                              {% elseif item.namecredit %}
+                                                <p>{{ item.namecredit }}</p>
+                                              {% endif %}
+                                        {% endif %}
+                                        {% if item.buttonclass %}
+                                            <div class="t-owlcarousel-item-link">
+                                                <a target="_self" class="g-owlcarousel-item-button button {{ item.buttonclass|e }}" href="{{ item.link|e }}">
+                                                    {{ item.linktext|raw }}
+                                                </a>
+                                            </div>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block javascript_footer %}
+    {% do gantry.load('jquery') %}
+    <script src="{{ url('gantry-theme://js/owl.carousel.min.js') }}"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+          items:{{ particle.itemsVisible|default('1') }}
+          }
+      }
+  })
+});
+</script>
+{% endblock %}

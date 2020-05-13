@@ -1,0 +1,25 @@
+enabled: '1'
+css:
+  class: ''
+title: ''
+target: _blank
+display: both
+items:
+  -
+    icon: 'fa fa-twitter fa-fw'
+    text: ''
+    title: ''
+    link: 'http://www.twitter.com'
+    name: Twitter
+  -
+    icon: 'fa fa-facebook fa-fw'
+    text: ''
+    title: ''
+    link: 'http://www.facebook.com'
+    name: Facebook
+  -
+    icon: 'fa fa-instagram'
+    text: ''
+    title: ''
+    link: 'https://plus.google.com/+rockettheme'
+    name: instagram

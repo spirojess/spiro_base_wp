@@ -1,0 +1,36 @@
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+
+<div class="g-topbott {{ particle.css.class }}">
+                    <div class="g-block size-100">
+                      <div class="card">
+                          <div class="card-block">
+                            {% if particle.icon %}
+                                  <div class="card-block">
+                                    <i class="fa {{ particle.icon }}"></i>
+                                </div>
+
+                            {% elseif particle.image %}
+                                <div class="tb-image-wrapper">
+                                    <img src="{{ url(particle.image)|e }}" alt="{{ particle.title|e }}" class="card-image" />
+                                </div>
+                            {% endif %}
+                            {% if particle.link %}
+                              <a href="{{ particle.link }}"><h4 class="card-title">{{ particle.title|e }}</h4></a>
+                            {% else %}
+                              <h4 class="card-title">{{ particle.title|e }}</h4>
+                            {% endif %}
+                              <p class="card-text">{{ particle.copy|raw }}  <a class="rdmore" href="{{ particle.link }}">Learn More</a></p>
+
+                              {% if item.linktext %}
+                              <p class="card-text"><a href="{{ particle.link }}" class="button {{ particle.buttonclass }}">{{ particle.linktext }}</a></p>
+                              {% endif %}
+
+                          </div>
+                      </div>
+
+                    </div>
+</div>
+
+{% endblock %}

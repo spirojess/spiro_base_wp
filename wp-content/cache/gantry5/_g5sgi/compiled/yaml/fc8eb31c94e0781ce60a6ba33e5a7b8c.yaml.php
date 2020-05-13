@@ -2,57 +2,67 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/config/_offline/index.yaml',
-    'modified' => 1589335976,
+    'modified' => 1589381826,
     'data' => [
         'name' => '_offline',
-        'timestamp' => 1589335622,
+        'timestamp' => 1589381826,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
             'name' => 'default',
-            'timestamp' => 1589312938
+            'timestamp' => 1588258328
         ],
         'positions' => [
-            'header' => 'Header',
-            'breadcrumbs' => 'Breadcrumbs',
-            'footer' => 'Footer'
+            'aside' => 'Aside',
+            'sidebar' => 'Sidebar'
         ],
         'sections' => [
-            'header' => 'Header',
             'navigation' => 'Navigation',
-            'main' => 'Main',
+            'intro' => 'Intro',
+            'features' => 'Features',
+            'utility' => 'Utility',
+            'above' => 'Above',
+            'testimonials' => 'Testimonials',
+            'expanded' => 'Expanded',
+            'header' => 'Header',
+            'aside' => 'Aside',
+            'sidebar' => 'Sidebar',
+            'mainbar' => 'Mainbar',
             'footer' => 'Footer',
             'offcanvas' => 'Offcanvas'
         ],
         'particles' => [
-            'logo' => [
-                'logo-9674' => 'Logo'
+            'messages' => [
+                'system-messages-7972' => 'System Messages'
             ],
-            'position' => [
-                'position-header' => 'Header',
-                'position-breadcrumbs' => 'Breadcrumbs',
-                'position-footer' => 'Footer'
+            'logo' => [
+                'logo-9608' => 'Logo / Image',
+                'logo-9571' => 'Logo / Image'
             ],
             'menu' => [
-                'menu-2578' => 'Menu'
+                'menu-6409' => 'Menu'
             ],
-            'messages' => [
-                'system-messages-1604' => 'System Messages'
+            'social' => [
+                'social-3171' => 'Social'
+            ],
+            'position' => [
+                'position-position-4734' => 'Aside',
+                'position-position-3949' => 'Sidebar'
             ],
             'content' => [
-                'system-content-3389' => 'Page Content'
+                'system-content-1587' => 'Page Content'
             ],
             'copyright' => [
-                'copyright-2310' => 'Copyright'
+                'copyright-1736' => 'Copyright'
             ],
-            'spacer' => [
-                'spacer-3450' => 'Spacer'
+            'horizontalmenu' => [
+                'horizontalmenu-9034' => 'Horizontal Menu'
             ],
-            'branding' => [
-                'branding-7632' => 'Branding'
+            'totop' => [
+                'totop-8670' => 'To Top'
             ],
             'mobile-menu' => [
-                'mobile-menu-5691' => 'Mobile-menu'
+                'mobile-menu-5697' => 'Mobile-menu'
             ]
         ],
         'inherit' => [

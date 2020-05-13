@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/custom/config/block_variations/index.yaml',
-    'modified' => 1589335937,
+    'modified' => 1589382463,
     'data' => [
         'name' => 'block_variations',
-        'timestamp' => 1589335623,
+        'timestamp' => 1588258336,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

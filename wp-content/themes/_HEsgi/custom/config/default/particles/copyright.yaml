@@ -1,0 +1,11 @@
+enabled: '1'
+date:
+  start: '2020'
+  end: now
+owner: Owner
+link: ''
+target: _blank
+additional:
+  text: ''
+css:
+  class: ''
