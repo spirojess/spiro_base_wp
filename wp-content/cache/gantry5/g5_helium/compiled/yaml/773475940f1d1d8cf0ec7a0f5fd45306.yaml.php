@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/content/single/featured-image.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589335623,
     'data' => [
         'name' => 'Featured Image',
         'description' => 'Options for displaying featured image',

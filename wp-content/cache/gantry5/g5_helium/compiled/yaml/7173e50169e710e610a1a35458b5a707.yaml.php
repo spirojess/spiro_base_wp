@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/custom/config/left_sidebar/index.yaml',
-    'modified' => 1589312839,
+    'modified' => 1589335937,
     'data' => [
         'name' => 'left_sidebar',
-        'timestamp' => 1588258336,
+        'timestamp' => 1589335623,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/particles/spiro-card.yaml',
-    'modified' => 1585683990,
+    'modified' => 1589335623,
     'data' => [
         'name' => 'Spiro Card',
         'description' => 'Display content below an image or icon.',

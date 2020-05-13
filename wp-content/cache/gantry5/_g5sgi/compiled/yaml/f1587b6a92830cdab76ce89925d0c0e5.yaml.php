@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_hydrogen/blueprints/styles/navigation.yaml',
-    'modified' => 1589312938,
+    'modified' => 1589335623,
     'data' => [
         'name' => 'Navigation Colors',
         'description' => 'Navigation colors for the Hydrogen theme',

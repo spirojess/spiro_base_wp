@@ -166,19 +166,19 @@ h1, h2, h3, h4, h5, h6, strong {
   font-family: "roboto";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?5ebafdaa') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?5ebafdaa') format("woff"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?5ebafdaa') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?5ebb5647#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?5ebb5647') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?5ebb5647') format("woff"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?5ebb5647') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?5ebb5647#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 500;
-  src: url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?5ebafdaa') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?5ebafdaa') format("woff"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?5ebafdaa') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?5ebb5647#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?5ebb5647') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?5ebb5647') format("woff"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?5ebb5647') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?5ebb5647#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?5ebafdaa') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?5ebafdaa') format("woff"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?5ebafdaa') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?5ebb5647#iefix') format("embedded-opentype"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?5ebb5647') format("woff2"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?5ebb5647') format("woff"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?5ebb5647') format("truetype"), url('../../../g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?5ebb5647#roboto') format("svg");
 }
 /* line 5, wp-content/themes/g5_hydrogen/scss/hydrogen/_typography.scss */
 body {
@@ -700,12 +700,12 @@ hr {
 /* line 1, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 #g-showcase {
   padding: 1.5rem 0;
-  background-color: #3d3d3d;
+  background-color: #354d59;
   color: #fff;
 }
 /* line 9, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 #g-showcase a {
-  color: #bdbdbd;
+  color: #b8cbd5;
 }
 /* line 11, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 #g-showcase a:hover {
@@ -731,7 +731,7 @@ hr {
 /* line 31, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 /* line 32, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 #g-showcase .g-social a {
-  background: #2e2e2e;
+  background: #2a3c46;
   border: none;
   color: #fff;
   -webkit-transition: background 0.2s;
@@ -740,7 +740,7 @@ hr {
 }
 /* line 37, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
 #g-showcase .g-social a:hover {
-  background: #4c4c4c;
+  background: #405e6c;
 }
 @media print {
   /* line 45, wp-content/themes/g5_hydrogen/scss/hydrogen/_showcase.scss */
@@ -808,8 +808,8 @@ hr {
 }
 /* line 1, wp-content/themes/g5_hydrogen/scss/hydrogen/_footer.scss */
 #g-footer {
-  background: #fff;
-  color: #666;
+  background: #312f38;
+  color: #fff;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 @media only all and (max-width: 47.99rem) {
@@ -1028,7 +1028,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 1;
-    background: url('../../../g5_hydrogen/images/macbook.png?5ebafdaa');
+    background: url('../../../g5_hydrogen/images/macbook.png?5ebb5647');
   }
   /* line 31, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .macbook .macbook-color {
@@ -1045,7 +1045,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 2;
-    background: url('../../../g5_hydrogen/images/ipad.png?5ebafdaa');
+    background: url('../../../g5_hydrogen/images/ipad.png?5ebb5647');
   }
   /* line 46, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .ipad .ipad-color {
@@ -1062,7 +1062,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 3;
-    background: url('../../../g5_hydrogen/images/iphone.png?5ebafdaa');
+    background: url('../../../g5_hydrogen/images/iphone.png?5ebb5647');
   }
   /* line 61, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .iphone .iphone-color {

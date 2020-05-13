@@ -94,6 +94,9 @@ content:
   position-header:
     attributes:
       key: header
+  menu-9135:
+    attributes:
+      menu: main-menu
   position-footer:
     attributes:
       key: footer

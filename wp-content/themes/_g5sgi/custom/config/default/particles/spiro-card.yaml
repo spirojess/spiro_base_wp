@@ -1,0 +1,14 @@
+enabled: '1'
+css:
+  class: ''
+title: Title
+name: ''
+icon: atom
+image: ''
+imageposition: left
+label: LABEL
+copy: 'this is the copy that you can put on this little spire-card.'
+link: ''
+linktext: '&rarr;'
+buttonclass: ''
+buttontarget: _self

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/config/default/layout.yaml',
-    'modified' => 1589317311,
+    'modified' => 1589341664,
     'data' => [
         'version' => 2,
         'preset' => [
@@ -162,6 +162,11 @@ return [
             'position-header' => [
                 'attributes' => [
                     'key' => 'header'
+                ]
+            ],
+            'menu-9135' => [
+                'attributes' => [
+                    'menu' => 'main-menu'
                 ]
             ],
             'position-footer' => [

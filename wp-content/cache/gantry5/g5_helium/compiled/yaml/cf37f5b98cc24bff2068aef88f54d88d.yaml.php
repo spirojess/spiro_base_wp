@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/styles/expanded.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589335623,
     'data' => [
         'name' => 'Expanded Styles',
         'description' => 'Expanded section content styles for the Helium theme',

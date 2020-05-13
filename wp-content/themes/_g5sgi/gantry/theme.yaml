@@ -94,6 +94,10 @@ admin:
       - header
       - showcase
       - subfeature
+      - above
+      - below
+      - testimonials
+      - utility
     core:
       - base
   content:

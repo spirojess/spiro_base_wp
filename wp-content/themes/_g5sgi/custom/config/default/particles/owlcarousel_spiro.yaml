@@ -1,0 +1,19 @@
+enabled: '1'
+class: ''
+title: 'Carousel for Spiro'
+nav: disable
+dots: enable
+autoplay: disable
+autoplaySpeed: ''
+itemsVisible: ''
+items:
+  -
+    class: ''
+    image: 'gantry-media://2020/05/sandwich.jpg'
+    title: Title
+    desc: Description
+    link: '#'
+    linktext: LINK
+    buttonclass: button-outline
+    disable: '0'
+    name: 'New item'

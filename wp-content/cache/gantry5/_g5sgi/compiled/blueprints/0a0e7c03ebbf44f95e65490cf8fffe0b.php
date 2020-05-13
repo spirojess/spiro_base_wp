@@ -1,295 +1,295 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledBlueprints',
-    'timestamp' => 1589313940,
-    'checksum' => '23919c3fca394528c1da287e6228b2e6',
+    'timestamp' => 1589339693,
+    'checksum' => '829ec1bdff15143afb798d63db992882',
     'files' => [
         'wp-content/themes/g5_hydrogen/particles' => [
             'particles/sample' => [
                 'file' => 'wp-content/themes/g5_hydrogen/particles/sample.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ]
         ],
         'wp-content/plugins/gantry5/engines/nucleus/particles' => [
             'particles/analytics' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/analytics.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/assets' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/assets.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/branding' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/branding.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/content' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/content.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/contentarray' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/contentarray.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/copyright.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/custom' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/custom.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/date' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/frameworks' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/frameworks.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/lightcase' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/lightcase.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/loginform' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/loginform.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/logo' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/logo.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/menu' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/menu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/messages' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/messages.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/mobile-menu' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/mobile-menu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/position' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/position.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/social' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/social.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/spacer' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/spacer.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/totop' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/totop.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'particles/widget' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/widget.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ]
         ],
         'wp-content/themes/g5_hydrogen/blueprints' => [
             'content/archive/content' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/content.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/featured-image' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/featured-image.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/heading' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/heading.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/meta-author' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/meta-author.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/meta-categories' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/meta-categories.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/meta-comments' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/meta-comments.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/meta-date' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/meta-date.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/meta-tags' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/meta-tags.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/read-more' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/read-more.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/archive/title' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/archive/title.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/content' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/content.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/featured-image' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/featured-image.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/heading' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/heading.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/meta-author' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/meta-author.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/meta-categories' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/meta-categories.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/meta-comments' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/meta-comments.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/meta-date' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/meta-date.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/meta-tags' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/meta-tags.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/read-more' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/read-more.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/blog/title' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/blog/title.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/general/wpautop' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/general/wpautop.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/page/featured-image' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/page/featured-image.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/page/meta-author' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/page/meta-author.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/page/meta-date' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/page/meta-date.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/page/title' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/page/title.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/featured-image' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/featured-image.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/meta-author' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/meta-author.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/meta-categories' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/meta-categories.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/meta-comments' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/meta-comments.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/meta-date' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/meta-date.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/meta-tags' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/meta-tags.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'content/single/title' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/content/single/title.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'page' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/page.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/accent' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/accent.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/base' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/base.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/breakpoints' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/breakpoints.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/feature' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/feature.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/footer' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/footer.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/header' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/header.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/main' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/main.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/menu' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/menu.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/navigation' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/navigation.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/offcanvas' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/offcanvas.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/showcase' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/showcase.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ],
             'styles/subfeature' => [
                 'file' => 'wp-content/themes/g5_hydrogen/blueprints/styles/subfeature.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ]
         ],
         'wp-content/plugins/gantry5/engines/nucleus/blueprints' => [
             'page/assets' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/assets.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'page/body' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/body.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'page/fontawesome' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/fontawesome.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ],
             'page/head' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/head.yaml',
-                'modified' => 1588258328
+                'modified' => 1589335619
             ]
         ]
     ],

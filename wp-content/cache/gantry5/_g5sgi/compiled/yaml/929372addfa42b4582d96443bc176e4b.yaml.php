@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/gantry/presets.yaml',
-    'modified' => 1589320995,
+    'modified' => 1589339669,
     'data' => [
         'preset1' => [
             'image' => 'gantry-admin://images/preset1.png',
@@ -46,10 +46,6 @@ return [
                     'background' => '#ffffff',
                     'text-color' => '#424753'
                 ],
-                'utility' => [
-                    'background' => '#424753',
-                    'text-color' => '#ffffff'
-                ],
                 'above' => [
                     'background' => '#f4f5f7',
                     'text-color' => '#424753'
@@ -60,9 +56,9 @@ return [
                     'background-overlay' => 'enabled',
                     'text-color' => '#eceeef'
                 ],
-                'expanded' => [
-                    'background' => '#ffffff',
-                    'text-color' => '#424753'
+                'utility' => [
+                    'background' => '#424753',
+                    'text-color' => '#ffffff'
                 ],
                 'footer' => [
                     'background' => '#312f38',
@@ -76,7 +72,7 @@ return [
             ]
         ],
         'preset2' => [
-            'description' => 'Style 2 from Jes',
+            'description' => 'Style 2 from Jess',
             'colors' => [
                 0 => '#b8dfff',
                 1 => '#e3d98d'
@@ -86,31 +82,40 @@ return [
                     'background' => '#7a7a7a',
                     'text-color' => '#ffffff'
                 ],
-                'showcase' => [
-                    'background' => '#3d3d3d',
-                    'image' => '',
-                    'text-color' => '#ffffff'
-                ],
-                'subfeature' => [
-                    'background' => '#f0f0f0',
-                    'text-color' => '#666666'
-                ],
-                'feature' => [
-                    'background' => '#ffffff',
-                    'text-color' => '#666666'
-                ],
-                'footer' => [
-                    'background' => '#ffffff',
-                    'text-color' => '#666666'
-                ],
-                'main' => [
-                    'background' => '#ffffff',
-                    'text-color' => '#666666'
-                ],
                 'navigation' => [
                     'background' => '#5c5c5c',
                     'text-color' => '#ffffff',
                     'overlay' => 'rgba(0, 0, 0, 0.4)'
+                ],
+                'intro' => [
+                    'background' => '#f4f5f7',
+                    'text-color' => '#424753'
+                ],
+                'features' => [
+                    'background' => '#ffffff',
+                    'text-color' => '#424753'
+                ],
+                'above' => [
+                    'background' => '#f4f5f7',
+                    'text-color' => '#424753'
+                ],
+                'below' => [
+                    'background' => '#f4f5f7',
+                    'text-color' => '#424753'
+                ],
+                'testimonials' => [
+                    'background' => '#8f4dae',
+                    'background-image' => 'gantry-media://testimonials/img01.jpg',
+                    'background-overlay' => 'enabled',
+                    'text-color' => '#eceeef'
+                ],
+                'utility' => [
+                    'background' => '#424753',
+                    'text-color' => '#ffffff'
+                ],
+                'footer' => [
+                    'background' => '#312f38',
+                    'text-color' => '#ffffff'
                 ],
                 'offcanvas' => [
                     'background' => '#354d59',

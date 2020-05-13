@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/plugins/gantry5/engines/nucleus/blueprints/page/assets.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589335619,
     'data' => [
         'name' => 'Assets',
         'description' => 'Assets such as JS and CSS that can be globally loaded',

@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/config/_offline/index.yaml',
-    'modified' => 1589313937,
+    'modified' => 1589335976,
     'data' => [
         'name' => '_offline',
-        'timestamp' => 1589313937,
+        'timestamp' => 1589335622,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

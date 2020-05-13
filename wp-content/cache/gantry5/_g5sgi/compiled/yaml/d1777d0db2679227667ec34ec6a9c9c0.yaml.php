@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/gantry/theme.yaml',
-    'modified' => 1589313699,
+    'modified' => 1589340168,
     'data' => [
         'details' => [
             'name' => '_g5sgi',
@@ -110,7 +110,11 @@ return [
                 'section' => [
                     0 => 'header',
                     1 => 'showcase',
-                    2 => 'subfeature'
+                    2 => 'subfeature',
+                    3 => 'above',
+                    4 => 'below',
+                    5 => 'testimonials',
+                    6 => 'utility'
                 ],
                 'core' => [
                     0 => 'base'

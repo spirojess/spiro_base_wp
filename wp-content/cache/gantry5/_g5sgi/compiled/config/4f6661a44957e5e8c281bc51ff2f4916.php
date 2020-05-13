@@ -1,100 +1,175 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1589319120,
-    'checksum' => 'c088a10e42bbc686b873360856346540',
+    'timestamp' => 1589343047,
+    'checksum' => '87bc0a1357d2b28e6b9c47bfaef4e929',
     'files' => [
         'wp-content/themes/_g5sgi/custom/config/default' => [
             'index' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/index.yaml',
-                'modified' => 1589317311
+                'modified' => 1589341664
             ],
             'layout' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/layout.yaml',
-                'modified' => 1589317311
+                'modified' => 1589341664
             ],
             'particles/branding' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/branding.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/content' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/content.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
             ],
             'particles/contentarray' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/contentarray.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/copyright.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/custom' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/custom.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/date' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/date.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/loginform' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/loginform.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/logo' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/logo.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/menu' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/menu.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/messages' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/messages.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
             ],
             'particles/mobile-menu' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/mobile-menu.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
+            ],
+            'particles/owlcarousel_spiro' => [
+                'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/owlcarousel_spiro.yaml',
+                'modified' => 1589343046
             ],
             'particles/position' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/position.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
             ],
             'particles/sample' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/sample.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/social' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/social.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343046
             ],
             'particles/spacer' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/spacer.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
+            ],
+            'particles/spiro-card' => [
+                'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/spiro-card.yaml',
+                'modified' => 1589343047
+            ],
+            'particles/testimonial_owlcarousel' => [
+                'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/testimonial_owlcarousel.yaml',
+                'modified' => 1589343047
             ],
             'particles/totop' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/totop.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
             ],
             'particles/widget' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/particles/widget.yaml',
-                'modified' => 1589319120
+                'modified' => 1589343047
             ],
             'styles' => [
                 'file' => 'wp-content/themes/_g5sgi/custom/config/default/styles.yaml',
-                'modified' => 1589318748
+                'modified' => 1589340594
             ]
         ],
         'wp-content/themes/g5_hydrogen/config/default' => [
             'particles/logo' => [
                 'file' => 'wp-content/themes/g5_hydrogen/config/default/particles/logo.yaml',
-                'modified' => 1589312938
+                'modified' => 1589335623
             ]
         ]
     ],
     'data' => [
         'particles' => [
+            'owlcarousel_spiro' => [
+                'caching' => [
+                    'type' => 'static'
+                ],
+                'enabled' => '1',
+                'nav' => 'disable',
+                'dots' => 'enable',
+                'autoplay' => 'disable',
+                'class' => '',
+                'title' => 'Carousel for Spiro',
+                'autoplaySpeed' => '',
+                'itemsVisible' => '',
+                'items' => [
+                    0 => [
+                        'class' => '',
+                        'image' => 'gantry-media://2020/05/sandwich.jpg',
+                        'title' => 'Title',
+                        'desc' => 'Description',
+                        'link' => '#',
+                        'linktext' => 'LINK',
+                        'buttonclass' => 'button-outline',
+                        'disable' => '0',
+                        'name' => 'New item'
+                    ]
+                ]
+            ],
+            'spiro-card' => [
+                'caching' => [
+                    'type' => 'static'
+                ],
+                'enabled' => '1',
+                'imageposition' => 'left',
+                'linktext' => '&rarr;',
+                'buttonclass' => '',
+                'buttontarget' => '_self',
+                'css' => [
+                    'class' => ''
+                ],
+                'title' => 'Title',
+                'name' => '',
+                'icon' => 'atom',
+                'image' => '',
+                'label' => 'LABEL',
+                'copy' => 'this is the copy that you can put on this little spire-card.',
+                'link' => ''
+            ],
+            'testimonial_owlcarousel' => [
+                'caching' => [
+                    'type' => 'static'
+                ],
+                'enabled' => '1',
+                'nav' => 'disable',
+                'dots' => 'enable',
+                'autoplay' => 'disable',
+                'imageOverlay' => 'enable',
+                'class' => '',
+                'title' => '',
+                'autoplaySpeed' => '',
+                'itemsVisible' => '',
+                'items' => [
+                    
+                ]
+            ],
             'sample' => [
                 'caching' => [
                     'type' => 'static'
@@ -142,10 +217,10 @@ return [
                 'target' => '_self',
                 'link' => '1',
                 'url' => '',
-                'image' => '',
-                'text' => '',
+                'image' => 'gantry-media://2020/05/acmelogo.svg',
+                'text' => 'Logo',
                 'class' => '',
-                'height' => '',
+                'height' => '44px',
                 'svg' => ''
             ],
             'mobile-menu' => [
@@ -185,6 +260,11 @@ return [
                 ],
                 'icon' => '',
                 'content' => ''
+            ],
+            'headroom' => [
+                'enabled' => true,
+                'animation' => 'slide',
+                'mobile' => 'disable'
             ],
             'analytics' => [
                 'enabled' => true,
@@ -316,6 +396,86 @@ return [
                 'enabled' => '1',
                 'chrome' => ''
             ]
+        ],
+        'styles' => [
+            'above' => [
+                'background' => '#f4f5f7',
+                'text-color' => '#424753'
+            ],
+            'intro' => [
+                'background' => '#f4f5f7',
+                'text-color' => '#424753'
+            ],
+            'testimonials' => [
+                'background' => '#8f4dae',
+                'background-image' => 'gantry-media://testimonials/img01.jpg',
+                'background-overlay' => 'enabled',
+                'text-color' => '#eceeef'
+            ],
+            'utility' => [
+                'background' => '#424753',
+                'text-color' => '#ffffff'
+            ],
+            'accent' => [
+                'color-1' => '#b8dfff',
+                'color-2' => '#e3d98d'
+            ],
+            'base' => [
+                'background' => '#ffffff',
+                'text-color' => '#666666',
+                'body-font' => 'roboto, sans-serif',
+                'heading-font' => 'roboto, sans-serif'
+            ],
+            'breakpoints' => [
+                'large-desktop-container' => '75rem',
+                'desktop-container' => '60rem',
+                'tablet-container' => '48rem',
+                'large-mobile-container' => '30rem',
+                'mobile-menu-breakpoint' => '48rem'
+            ],
+            'feature' => [
+                'background' => '#ffffff',
+                'text-color' => '#666666'
+            ],
+            'footer' => [
+                'background' => '#312f38',
+                'text-color' => '#ffffff'
+            ],
+            'header' => [
+                'background' => '#7a7a7a',
+                'text-color' => '#ffffff'
+            ],
+            'main' => [
+                'background' => '#ffffff',
+                'text-color' => '#666666'
+            ],
+            'menu' => [
+                'col-width' => '180px',
+                'animation' => 'g-fade',
+                'hide-on-mobile' => '0'
+            ],
+            'navigation' => [
+                'background' => '#5c5c5c',
+                'text-color' => '#ffffff',
+                'overlay' => 'rgba(0, 0, 0, 0.4)'
+            ],
+            'offcanvas' => [
+                'background' => '#354d59',
+                'text-color' => '#ffffff',
+                'width' => '17rem',
+                'toggle-color' => '#ffffff',
+                'toggle-visibility' => '1'
+            ],
+            'showcase' => [
+                'background' => '#354d59',
+                'image' => '',
+                'text-color' => '#ffffff'
+            ],
+            'subfeature' => [
+                'background' => '#f0f0f0',
+                'text-color' => '#666666'
+            ],
+            'preset' => 'preset2'
         ],
         'content' => [
             'archive' => [
@@ -491,71 +651,9 @@ return [
                 'enable' => 1
             ]
         ],
-        'styles' => [
-            'accent' => [
-                'color-1' => '#b8dfff',
-                'color-2' => '#e3d98d'
-            ],
-            'base' => [
-                'background' => '#ffffff',
-                'text-color' => '#666666',
-                'body-font' => 'roboto, sans-serif',
-                'heading-font' => 'roboto, sans-serif'
-            ],
-            'breakpoints' => [
-                'large-desktop-container' => '75rem',
-                'desktop-container' => '60rem',
-                'tablet-container' => '48rem',
-                'large-mobile-container' => '30rem',
-                'mobile-menu-breakpoint' => '48rem'
-            ],
-            'feature' => [
-                'background' => '#ffffff',
-                'text-color' => '#666666'
-            ],
-            'footer' => [
-                'background' => '#ffffff',
-                'text-color' => '#666666'
-            ],
-            'header' => [
-                'background' => '#7a7a7a',
-                'text-color' => '#ffffff'
-            ],
-            'main' => [
-                'background' => '#ffffff',
-                'text-color' => '#666666'
-            ],
-            'menu' => [
-                'col-width' => '180px',
-                'animation' => 'g-fade',
-                'hide-on-mobile' => '0'
-            ],
-            'navigation' => [
-                'background' => '#5c5c5c',
-                'text-color' => '#ffffff',
-                'overlay' => 'rgba(0, 0, 0, 0.4)'
-            ],
-            'offcanvas' => [
-                'background' => '#354d59',
-                'text-color' => '#ffffff',
-                'width' => '17rem',
-                'toggle-color' => '#ffffff',
-                'toggle-visibility' => '1'
-            ],
-            'showcase' => [
-                'background' => '#3d3d3d',
-                'image' => '',
-                'text-color' => '#ffffff'
-            ],
-            'subfeature' => [
-                'background' => '#f0f0f0',
-                'text-color' => '#666666'
-            ],
-            'preset' => 'preset1'
-        ],
         'index' => [
             'name' => 'default',
-            'timestamp' => 1589317311,
+            'timestamp' => 1589341664,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -771,6 +869,11 @@ return [
                 'position-header' => [
                     'attributes' => [
                         'key' => 'header'
+                    ]
+                ],
+                'menu-9135' => [
+                    'attributes' => [
+                        'menu' => 'main-menu'
                     ]
                 ],
                 'position-footer' => [

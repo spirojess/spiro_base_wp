@@ -1,9 +1,19 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/custom__error.css',
-    'timestamp' => 1589318751,
+    'timestamp' => 1589340602,
     'md5' => '6c8ac2797c95fa134f5b4680cfe5f595',
     'variables' => [
+        'above-background' => '#f4f5f7',
+        'above-text-color' => '#424753',
+        'intro-background' => '#f4f5f7',
+        'intro-text-color' => '#424753',
+        'testimonials-background' => '#8f4dae',
+        'testimonials-background-image' => '\'gantry-media://testimonials/img01.jpg\'',
+        'testimonials-background-overlay' => '\'enabled\'',
+        'testimonials-text-color' => '#eceeef',
+        'utility-background' => '#424753',
+        'utility-text-color' => '#ffffff',
         'accent-color-1' => '#b8dfff',
         'accent-color-2' => '#e3d98d',
         'base-background' => '#ffffff',
@@ -17,8 +27,8 @@ return [
         'breakpoints-mobile-menu-breakpoint' => '48rem',
         'feature-background' => '#ffffff',
         'feature-text-color' => '#666666',
-        'footer-background' => '#ffffff',
-        'footer-text-color' => '#666666',
+        'footer-background' => '#312f38',
+        'footer-text-color' => '#ffffff',
         'header-background' => '#7a7a7a',
         'header-text-color' => '#ffffff',
         'main-background' => '#ffffff',
@@ -33,13 +43,13 @@ return [
         'offcanvas-width' => '17rem',
         'offcanvas-toggle-color' => '#ffffff',
         'offcanvas-toggle-visibility' => '\'1\'',
-        'showcase-background' => '#3d3d3d',
+        'showcase-background' => '#354d59',
         'showcase-text-color' => '#ffffff',
         'subfeature-background' => '#f0f0f0',
         'subfeature-text-color' => '#666666',
-        'preset' => '\'preset1\''
+        'preset' => '\'preset2\''
     ],
     'imports' => [
-        'gantry-theme://scss/custom.scss' => 1589315866
+        'gantry-theme://scss/custom.scss' => 1589335623
     ]
 ];

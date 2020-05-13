@@ -2,15 +2,15 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_g5sgi/custom/config/default/styles.yaml',
-    'modified' => 1589318748,
+    'modified' => 1589340594,
     'data' => [
-        'preset' => 'preset1',
+        'preset' => 'preset2',
         'header' => [
             'background' => '#7a7a7a',
             'text-color' => '#ffffff'
         ],
         'showcase' => [
-            'background' => '#3d3d3d',
+            'background' => '#354d59',
             'image' => '',
             'text-color' => '#ffffff'
         ],
@@ -18,13 +18,31 @@ return [
             'background' => '#f0f0f0',
             'text-color' => '#666666'
         ],
+        'above' => [
+            'background' => '#f4f5f7',
+            'text-color' => '#424753'
+        ],
+        'testimonials' => [
+            'background' => '#8f4dae',
+            'background-image' => 'gantry-media://testimonials/img01.jpg',
+            'background-overlay' => 'enabled',
+            'text-color' => '#eceeef'
+        ],
+        'utility' => [
+            'background' => '#424753',
+            'text-color' => '#ffffff'
+        ],
         'feature' => [
             'background' => '#ffffff',
             'text-color' => '#666666'
         ],
         'footer' => [
-            'background' => '#ffffff',
-            'text-color' => '#666666'
+            'background' => '#312f38',
+            'text-color' => '#ffffff'
+        ],
+        'intro' => [
+            'background' => '#f4f5f7',
+            'text-color' => '#424753'
         ],
         'main' => [
             'background' => '#ffffff',
