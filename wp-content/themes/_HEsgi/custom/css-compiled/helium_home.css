@@ -76,7 +76,7 @@ textarea, select[multiple=multiple], input[type="color"], input[type="date"], in
   font-family: 'rockettheme-apps';
   font-style: normal;
   font-weight: normal;
-  src: url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2') format("woff2"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff') format("woff"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf') format("truetype"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg#rockettheme-apps') format("svg");
+  src: url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot?5ebcb063#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2?5ebcb063') format("woff2"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff?5ebcb063') format("woff"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf?5ebcb063') format("truetype"), url('../../../g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg?5ebcb063#rockettheme-apps') format("svg");
 }
 /* line 4, wp-content/themes/g5_helium/scss/helium/styles/_fonts.scss */
 i.fa-grav-spaceman, i.fa-grav-text, i.fa-grav-full, i.fa-grav-logo, i.fa-grav-symbol, i.fa-grav-logo-both, i.fa-grav-both, i.fa-gantry, i.fa-gantry-logo, i.fa-gantry-symbol, i.fa-gantry-logo-both, i.fa-gantry-both {
@@ -180,61 +180,61 @@ a:hover {
   font-family: "raleway";
   font-style: normal;
   font-weight: 900;
-  src: url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg?5ebcb062#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg?5ebcb062#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 600;
-  src: url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?5ebcb063#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?5ebcb063') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?5ebcb063') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?5ebcb063') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?5ebcb063#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 500;
-  src: url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot?5ebcb063#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?5ebcb063') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff?5ebcb063') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?5ebcb063') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg?5ebcb063#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot?5ebcb063#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?5ebcb063') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff?5ebcb063') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?5ebcb063') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg?5ebcb063#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 200;
-  src: url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg#raleway') format("svg");
+  src: url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot?5ebcb063#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2?5ebcb063') format("woff2"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff?5ebcb063') format("woff"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf?5ebcb063') format("truetype"), url('../../../g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg?5ebcb063#raleway') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 900;
-  src: url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.woff') format("woff"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.svg#lato') format("svg");
+  src: url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/lato/lato-black/lato-black-webfont.svg?5ebcb062#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff') format("woff"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg#lato') format("svg");
+  src: url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg?5ebcb062#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff') format("woff"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg#lato') format("svg");
+  src: url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg?5ebcb062#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 200;
-  src: url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.eot#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2') format("woff2"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.woff') format("woff"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf') format("truetype"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.svg#lato') format("svg");
+  src: url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.eot?5ebcb062#iefix') format("embedded-opentype"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2?5ebcb062') format("woff2"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.woff?5ebcb062') format("woff"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf?5ebcb062') format("truetype"), url('../../../g5_helium/fonts/lato/lato-light/lato-light-webfont.svg?5ebcb062#lato') format("svg");
 }
 /* line 5, wp-content/themes/g5_helium/scss/helium/styles/_typography.scss */
 body {
@@ -334,12 +334,14 @@ hr {
   padding-right: 10%;
 }
 @media only all and (min-width: 48rem) and (max-width: 59.99rem) {
+  /* line 13, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .section-horizontal-paddings {
     padding-left: 0;
     padding-right: 0;
   }
 }
 @media only all and (max-width: 47.99rem) {
+  /* line 25, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .section-horizontal-paddings {
     padding-left: 0;
     padding-right: 0;
@@ -1364,6 +1366,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 /* line 2, wp-content/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 /* line 4, wp-content/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 @media only all and (min-width: 48rem) {
+  /* line 22, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .g-home-particles.g-helium-style #g-navigation {
     background: transparent;
   }
@@ -1408,6 +1411,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   }
 }
 @media only all and (min-width: 30.01rem) and (max-width: 47.99rem) {
+  /* line 16, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .g-home-particles.g-helium-style #g-header {
     padding-top: 2rem;
   }
@@ -1568,7 +1572,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background-image: url('../../../g5_helium/images/header/img01.jpg');
+  background-image: url('../../../g5_helium/images/header/img01.jpg?5ebcb063');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2071,7 +2075,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('../images/2020/05/sandwich.jpg?5ebc0f51') no-repeat center top;
+  background: url('../images/2020/05/sandwich.jpg?5ebcb05f') no-repeat center top;
   background-size: cover;
 }
 /* line 27, wp-content/themes/g5_helium/scss/helium/sections/_testimonials.scss */
@@ -2260,6 +2264,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   color: rgba(255, 255, 255, 0.6);
 }
 @media only all and (max-width: 48rem) {
+  /* line 54, wp-content/themes/g5_helium/scss/helium/sections/_offcanvas.scss */
   .g-offcanvas-toggle {
     display: block;
   }
@@ -2666,6 +2671,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   margin: 0 auto;
 }
 @media only all and (min-width: 60rem) and (max-width: 74.99rem) {
+  /* line 7, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .g-contentcubes .cube-items-wrapper .cube-content-wrapper {
     padding: 4.6rem 0;
   }
@@ -2682,6 +2688,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   }
 }
 @media only all and (max-width: 30rem) {
+  /* line 19, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .g-contentcubes .cube-items-wrapper .cube-content-wrapper {
     max-width: 14.5rem;
   }
@@ -3219,6 +3226,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   transform-style: preserve-3d;
 }
 @media only all and (min-width: 75rem) {
+  /* line 4, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_breakpoints.scss */
   .g-owlcarousel .g-owlcarousel-item-wrapper .g-owlcarousel-item-content-container {
     width: 75rem;
   }

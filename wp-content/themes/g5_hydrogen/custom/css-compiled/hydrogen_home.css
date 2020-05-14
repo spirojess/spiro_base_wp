@@ -167,19 +167,19 @@ h1, h2, h3, h4, h5, h6, strong {
   font-family: "roboto";
   font-style: normal;
   font-weight: 400;
-  src: url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?5ebafdaa') format("woff2"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?5ebafdaa') format("woff"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?5ebafdaa') format("truetype"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?5ebcb064#iefix') format("embedded-opentype"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?5ebcb064') format("woff2"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?5ebcb064') format("woff"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?5ebcb064') format("truetype"), url('../../fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?5ebcb064#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 500;
-  src: url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?5ebafdaa') format("woff2"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?5ebafdaa') format("woff"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?5ebafdaa') format("truetype"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?5ebcb064#iefix') format("embedded-opentype"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?5ebcb064') format("woff2"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?5ebcb064') format("woff"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?5ebcb064') format("truetype"), url('../../fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?5ebcb064#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 700;
-  src: url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?5ebafdaa#iefix') format("embedded-opentype"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?5ebafdaa') format("woff2"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?5ebafdaa') format("woff"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?5ebafdaa') format("truetype"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?5ebafdaa#roboto') format("svg");
+  src: url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?5ebcb064#iefix') format("embedded-opentype"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?5ebcb064') format("woff2"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?5ebcb064') format("woff"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?5ebcb064') format("truetype"), url('../../fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?5ebcb064#roboto') format("svg");
 }
 /* line 5, wp-content/themes/g5_hydrogen/scss/hydrogen/_typography.scss */
 body {
@@ -1031,7 +1031,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 1;
-    background: url('../../images/macbook.png?5ebafdaa');
+    background: url('../../images/macbook.png?5ebcb064');
   }
   /* line 31, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .macbook .macbook-color {
@@ -1048,7 +1048,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 2;
-    background: url('../../images/ipad.png?5ebafdaa');
+    background: url('../../images/ipad.png?5ebcb064');
   }
   /* line 46, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .ipad .ipad-color {
@@ -1065,7 +1065,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 3;
-    background: url('../../images/iphone.png?5ebafdaa');
+    background: url('../../images/iphone.png?5ebcb064');
   }
   /* line 61, wp-content/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .iphone .iphone-color {

@@ -10,45 +10,48 @@ configuration:
 form:
   fields:
     enabled:
-      type: input.checkbox
-      label: Enabled
-      description: Globally enable the particle.
-      default: true
+        type: input.checkbox
+        label: Enabled
+        description: Globally enable the particle.
+        default: true
 
     css.class:
-      type: input.text
-      label: CSS Classes
-      description: CSS class name for the particle.
+        type: input.text
+        label: CSS Classes
+        description: CSS class name for the particle.
 
     title:
-      type: input.text
-      label: Title
-      description: Customize the title text.
-      placeholder: Enter title
-
-    name:
-          type: input.text
+        type: input.text
+        label: Title
+        description: Customize the title text.
+        placeholder: Enter title
     icon:
-          type: input.text
-          label: Icon (fa-book)
+        type: input.icon
+        label: Icon
+        description: A Font Awesome icon to be displayed.
     image:
           type: input.imagepicker
           label: Image
-          description: Select desired image.
+          description: Select desired logo image.
+    height:
+          type: input.text
+          label: Maximum Height
+          description: Set image max. height in rem, em, px, or percentage unit values. Leave empty to use the default height.
+          pattern: '\d+(\.\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)'
     imageposition:
           type: select.select
           label: Image Position
           description: Should the image appear above or below the content.
           default: Top
           options:
-            left: Top
-            right: Bottom
+              left: Top
+              right: Bottom
     label:
           type: input.text
           label: Label
           description: Enter the label that appears on top of the title
     copy:
-          type: input.text
+          type: textarea.textarea
           label: Copy
           description: Enter Some copy
     link:

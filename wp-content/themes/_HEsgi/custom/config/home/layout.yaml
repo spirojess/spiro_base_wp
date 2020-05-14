@@ -133,7 +133,34 @@ structure:
 content:
   spiro-card-4220:
     title: 'Spiro Card'
+    attributes:
+      css:
+        class: 'box shadow'
+      title: 'Spin Baby, Spin'
+      icon: 'fa fa-bank fa-spin fa-lg'
+      height: 44px
+      link: /home
+      linktext: ''
+    block:
+      variations: center
   spiro-card-8148:
     title: 'Spiro Card'
+    attributes:
+      css:
+        class: ''
+      title: Title
+      icon: ''
+      image: 'gantry-media://2020/05/acmelogo.svg'
+      height: 44px
+      copy: 'Copy Goes Here. This is great.'
+      link: /home
+      linktext: Link
+    block:
+      variations: center
   spiro-card-2274:
     title: 'Spiro Card'
+    attributes:
+      title: 'Another Title'
+      icon: ''
+      image: 'gantry-media://testimonials/face.jpg'
+      height: 22px

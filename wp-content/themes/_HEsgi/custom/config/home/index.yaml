@@ -1,5 +1,5 @@
 name: home
-timestamp: 1589384691
+timestamp: 1589431645
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -23,10 +23,6 @@ sections:
   footer: Footer
   offcanvas: Offcanvas
 particles:
-  spiro-card:
-    spiro-card-4220: 'Spiro Card'
-    spiro-card-8148: 'Spiro Card'
-    spiro-card-2274: 'Spiro Card'
   messages:
     system-messages-5507: 'System Messages'
   logo:
@@ -36,6 +32,10 @@ particles:
     menu-6646: Menu
   social:
     social-5780: Social
+  spiro-card:
+    spiro-card-4220: 'Spiro Card'
+    spiro-card-8148: 'Spiro Card'
+    spiro-card-2274: 'Spiro Card'
   position:
     position-position-9572: Aside
     position-position-5850: Sidebar
@@ -52,24 +52,24 @@ particles:
 inherit:
   default:
     navigation: navigation
-    intro: intro
-    utility: utility
-    above: above
-    aside: aside
-    mainbar: mainbar
-    sidebar: sidebar
-    expanded: expanded
-    footer: footer
-    offcanvas: offcanvas
     system-messages-5507: system-messages-7972
     logo-2624: logo-9608
     menu-6646: menu-6409
     social-5780: social-3171
+    intro: intro
+    utility: utility
+    above: above
+    aside: aside
     position-position-9572: position-position-4734
+    mainbar: mainbar
     system-content-5698: system-content-1587
+    sidebar: sidebar
     position-position-5850: position-position-3949
+    expanded: expanded
+    footer: footer
     logo-8329: logo-9571
     copyright-8351: copyright-1736
     horizontalmenu-6115: horizontalmenu-9034
     totop-2097: totop-8670
+    offcanvas: offcanvas
     mobile-menu-5343: mobile-menu-5697

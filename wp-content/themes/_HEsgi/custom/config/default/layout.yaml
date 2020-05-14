@@ -123,3 +123,5 @@ content:
       items: {  }
   totop-8670:
     title: 'To Top'
+    attributes:
+      icon: 'fa fa-arrow-up fa-fw'
