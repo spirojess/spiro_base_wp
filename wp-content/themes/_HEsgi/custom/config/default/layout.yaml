@@ -12,7 +12,9 @@ layout:
       - 'menu-6409 65'
       - 'social-3171 20'
   /header/: {  }
-  /intro/: {  }
+  /intro/:
+    -
+      - custom-3635
   /features/: {  }
   /utility/: {  }
   /above/: {  }
@@ -107,6 +109,11 @@ content:
   social-3171:
     block:
       class: g-social-header
+  custom-3635:
+    title: 'Custom HTML'
+    attributes:
+      html: "<p>{{ function('wp_title', '|', true, 'right') }}</p>\n<p>{{ function('wp_title',' ', true, 'right') }}</p>"
+      twig: '1'
   position-position-4734:
     title: Aside
     attributes:
