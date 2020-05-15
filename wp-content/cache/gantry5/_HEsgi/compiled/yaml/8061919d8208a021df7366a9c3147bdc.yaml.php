@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/particles/owlcarousel_spiro.yaml',
-    'modified' => 1589382956,
+    'modified' => 1589424223,
     'data' => [
         'name' => 'Owl Carousel - Spiro',
         'description' => 'Display Owl Carousel.',

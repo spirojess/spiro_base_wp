@@ -12,7 +12,9 @@ layout:
       - 'spiro-card-4220 33.3'
       - 'spiro-card-8148 33.3'
       - 'spiro-card-2274 33.3'
-  utility: {  }
+  /utility/:
+    -
+      - custom-onpic-8746
   above: {  }
   /container-main/:
     -
@@ -22,8 +24,17 @@ layout:
         'mainbar 50': {  }
       -
         'sidebar 25': {  }
-  /testimonials/: {  }
-  expanded: {  }
+  /testimonials/:
+    -
+      - 'spiro_picblock-3555 25'
+      - 'spiro_picblock-1252 25'
+      - 'spiro_picblock-6659 25'
+      - 'spiro_picblock-7264 25'
+  /expanded/:
+    -
+      - 'spiro-card-9089 33.3'
+      - 'custom-onpic-4462 33.3'
+      - 'spiro_picblock-3861 33.3'
   footer: {  }
   offcanvas: {  }
 structure:
@@ -56,12 +67,10 @@ structure:
       variations: ''
   utility:
     type: section
-    inherit:
-      outline: default
-      include:
-        - attributes
-        - block
-        - children
+    attributes:
+      boxed: '2'
+      class: ''
+      variations: 'nomarginall nopaddingall'
   above:
     type: section
     inherit:
@@ -110,12 +119,10 @@ structure:
       variations: ''
   expanded:
     type: section
-    inherit:
-      outline: default
-      include:
-        - attributes
-        - block
-        - children
+    attributes:
+      boxed: ''
+      class: ''
+      variations: ''
   footer:
     inherit:
       outline: default
@@ -164,3 +171,51 @@ content:
       icon: ''
       image: 'gantry-media://testimonials/face.jpg'
       height: 22px
+  custom-onpic-8746:
+    title: 'Custom HTML on Picture'
+    attributes:
+      image: 'gantry-media://2020/05/sandwich.jpg'
+      html: "<h2>Heading TWO</h2>\n<p>This is a Paragraph - we can do anything with this that we want.</p>"
+    block:
+      variations: center
+  spiro_picblock-3555:
+    title: 'Spiro Picture Block'
+    attributes:
+      title: Title!!
+      image: 'gantry-media://2020/05/sandwich.jpg'
+      link: ''
+      linktext: ''
+    block:
+      variations: equal-height
+  spiro_picblock-1252:
+    title: 'Spiro Picture Block'
+    block:
+      variations: equal-height
+  spiro_picblock-6659:
+    title: 'Spiro Picture Block'
+    block:
+      variations: equal-height
+  spiro_picblock-7264:
+    title: 'Spiro Picture Block'
+    attributes:
+      title: Title!!e
+      image: 'gantry-media://2020/05/sandwich.jpg'
+      copy: 'Copy Copy Copy Too'
+    block:
+      variations: 'equal-height center'
+  spiro-card-9089:
+    title: 'Spiro Card'
+    block:
+      variations: equal-height
+  custom-onpic-4462:
+    title: 'Custom HTML on Picture'
+    attributes:
+      html: ''
+    block:
+      variations: equal-height
+  spiro_picblock-3861:
+    title: 'Spiro Picture Block'
+    attributes:
+      title: Heading/Title
+    block:
+      variations: equal-height

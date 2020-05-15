@@ -1,0 +1,10 @@
+enabled: '1'
+css:
+  class: ''
+title: ''
+image: 'gantry-media://testimonials/img01.jpg'
+copy: ''
+link: ''
+linktext: ''
+buttonclass: ''
+buttontarget: _self

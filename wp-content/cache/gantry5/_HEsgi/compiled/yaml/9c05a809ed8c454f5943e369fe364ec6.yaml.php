@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/styles/accent.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424224,
     'data' => [
         'name' => 'Accent Colors',
         'description' => 'Accent colors for the Helium theme',

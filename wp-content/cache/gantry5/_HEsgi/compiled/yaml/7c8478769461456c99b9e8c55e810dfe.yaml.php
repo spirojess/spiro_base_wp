@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/particles/spiro-card.yaml',
-    'modified' => 1589382956,
+    'modified' => 1589429793,
     'data' => [
         'name' => 'Spiro Card',
         'description' => 'Display content below an image or icon.',
@@ -32,17 +32,21 @@ return [
                     'description' => 'Customize the title text.',
                     'placeholder' => 'Enter title'
                 ],
-                'name' => [
-                    'type' => 'input.text'
-                ],
                 'icon' => [
-                    'type' => 'input.text',
-                    'label' => 'Icon (fa-book)'
+                    'type' => 'input.icon',
+                    'label' => 'Icon',
+                    'description' => 'A Font Awesome icon to be displayed.'
                 ],
                 'image' => [
                     'type' => 'input.imagepicker',
                     'label' => 'Image',
-                    'description' => 'Select desired image.'
+                    'description' => 'Select desired logo image.'
+                ],
+                'height' => [
+                    'type' => 'input.text',
+                    'label' => 'Maximum Height',
+                    'description' => 'Set image max. height in rem, em, px, or percentage unit values. Leave empty to use the default height.',
+                    'pattern' => '\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)'
                 ],
                 'imageposition' => [
                     'type' => 'select.select',
@@ -60,7 +64,7 @@ return [
                     'description' => 'Enter the label that appears on top of the title'
                 ],
                 'copy' => [
-                    'type' => 'input.text',
+                    'type' => 'textarea.textarea',
                     'label' => 'Copy',
                     'description' => 'Enter Some copy'
                 ],

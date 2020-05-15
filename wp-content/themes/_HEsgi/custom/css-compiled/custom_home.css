@@ -9,7 +9,13 @@
  */
 
 /* line 1, wp-content/themes/_HEsgi/custom/scss/custom.scss */
-body {
-  background-color: black;
+.picblock .g-block.size-100 {
+  padding: 55px;
+  height: 100%;
+}
+/* line 8, wp-content/themes/_HEsgi/custom/scss/custom.scss */
+.onpic {
+  padding: 22px;
+  margin: 0px;
 }
 /*# sourceMappingURL=custom_home.css.map */

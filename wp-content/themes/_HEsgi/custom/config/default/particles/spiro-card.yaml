@@ -2,9 +2,9 @@ enabled: '1'
 css:
   class: ''
 title: ''
-name: ''
-icon: fa fa-atom
+icon: 'fa fa-atom'
 image: ''
+height: ''
 imageposition: left
 label: Label
 copy: Copy

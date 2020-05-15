@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/plugins/gantry5/engines/nucleus/particles/mobile-menu.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424216,
     'data' => [
         'name' => 'Mobile Menu',
         'description' => 'Renders the mobile menu container for the offcanvas section.',

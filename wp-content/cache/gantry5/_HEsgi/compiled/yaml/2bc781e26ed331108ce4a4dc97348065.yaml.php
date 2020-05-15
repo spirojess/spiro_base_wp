@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/config/_body_only/index.yaml',
-    'modified' => 1589382442,
+    'modified' => 1589424747,
     'data' => [
         'name' => '_body_only',
-        'timestamp' => 1589382442,
+        'timestamp' => 1589424223,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

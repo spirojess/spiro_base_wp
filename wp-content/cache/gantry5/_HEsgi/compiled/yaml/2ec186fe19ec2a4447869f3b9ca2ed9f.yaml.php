@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/particles/contentcubes.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424227,
     'data' => [
         'name' => 'Content Cubes',
         'description' => 'Display content in side-by-side cubes.',

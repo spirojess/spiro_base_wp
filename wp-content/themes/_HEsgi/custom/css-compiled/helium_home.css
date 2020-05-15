@@ -2075,8 +2075,6 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('../images/2020/05/sandwich.jpg?5ebcb05f') no-repeat center top;
-  background-size: cover;
 }
 /* line 27, wp-content/themes/g5_helium/scss/helium/sections/_testimonials.scss */
 #g-testimonials a {

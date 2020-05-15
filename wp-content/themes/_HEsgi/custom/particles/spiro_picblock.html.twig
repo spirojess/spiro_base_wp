@@ -1,0 +1,27 @@
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+
+<div class="picblock onpic {{ particle.css.class }}" style="background-image: url({{ particle.image }})">
+
+  <div class="g-block size-100">
+    <div class="bloctext">
+          {% if particle.link is not empty %}
+            <a href="{{ particle.link }}"><h4 class="bloctitle">{{ particle.title|e }}</h4></a>
+          {% else %}
+            <h4 class="card-title">{{ particle.title|e }}</h4>
+          {% endif %}
+
+                                      <p class="card-text">{{ particle.copy|raw }}  {% if particle.link %}
+          <a class="rdmore" href="{{ particle.link }}">Learn More </a> {% endif %}
+                                      </p>
+                                        {% if particle.linktext and particle.link %}
+                                        <p class="card-text"><a href="{{ particle.link }}" class="button {{ particle.buttonclass }}">{{ particle.linktext }}</a></p>
+                                        {% endif %}
+
+
+    </div>
+  </div>
+
+</div>
+{% endblock %}

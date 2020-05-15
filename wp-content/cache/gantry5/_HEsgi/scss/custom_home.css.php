@@ -1,8 +1,8 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/custom_home.css',
-    'timestamp' => 1589384340,
-    'md5' => '02f35b966a1af88855d2dc7970bb44f2',
+    'timestamp' => 1589517245,
+    'md5' => '8a8d9ca6e92771fc297acd404ab2dac0',
     'variables' => [
         'above-background' => '#f4f5f7',
         'above-text-color' => '#424753',
@@ -41,7 +41,6 @@ return [
         'offcanvas-toggle-visibility' => '\'1\'',
         'offcanvas-width' => '12rem',
         'testimonials-background' => '#8f4dae',
-        'testimonials-background-image' => '\'gantry-media://2020/05/sandwich.jpg\'',
         'testimonials-background-overlay' => '\'disabled\'',
         'testimonials-text-color' => '#eceeef',
         'utility-background' => '#424753',
@@ -49,6 +48,6 @@ return [
         'preset' => '\'preset1\''
     ],
     'imports' => [
-        'gantry-theme://scss/custom.scss' => 1589382930
+        'gantry-theme://scss/custom.scss' => 1589516939
     ]
 ];

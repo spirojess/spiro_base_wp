@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/config/_error/layout.yaml',
-    'modified' => 1589382442,
+    'modified' => 1589424223,
     'data' => [
         'version' => 2,
         'preset' => [

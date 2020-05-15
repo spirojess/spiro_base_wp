@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/_HEsgi/custom/config/default/layout.yaml',
-    'modified' => 1589384691,
+    'modified' => 1589426022,
     'data' => [
         'version' => 2,
         'preset' => [
@@ -204,7 +204,10 @@ return [
                 ]
             ],
             'totop-8670' => [
-                'title' => 'To Top'
+                'title' => 'To Top',
+                'attributes' => [
+                    'icon' => 'fa fa-arrow-up fa-fw'
+                ]
             ]
         ]
     ]

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/styles/menu.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424224,
     'data' => [
         'name' => 'Menu',
         'description' => 'Set menu style configuration options.',

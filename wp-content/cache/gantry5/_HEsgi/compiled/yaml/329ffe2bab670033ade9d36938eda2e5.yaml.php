@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/content/archive/read-more.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424224,
     'data' => [
         'name' => 'Read More Button',
         'description' => 'Options for displaying Read More button',

@@ -1,351 +1,359 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledBlueprints',
-    'timestamp' => 1589384215,
-    'checksum' => '2d914465e952889fe63d2d0a393015f9',
+    'timestamp' => 1589516315,
+    'checksum' => '98942ea3865cf91dd99b0a02ac0d2660',
     'files' => [
         'wp-content/themes/_HEsgi/custom/particles' => [
+            'particles/custom-onpic' => [
+                'file' => 'wp-content/themes/_HEsgi/custom/particles/custom-onpic.yaml',
+                'modified' => 1589516299
+            ],
             'particles/headroom' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/particles/headroom.yaml',
-                'modified' => 1589382956
+                'modified' => 1589424223
             ],
             'particles/owlcarousel_spiro' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/particles/owlcarousel_spiro.yaml',
-                'modified' => 1589382956
+                'modified' => 1589424223
             ],
             'particles/spiro-card' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/particles/spiro-card.yaml',
-                'modified' => 1589382956
+                'modified' => 1589429793
+            ],
+            'particles/spiro_picblock' => [
+                'file' => 'wp-content/themes/_HEsgi/custom/particles/spiro_picblock.yaml',
+                'modified' => 1589510771
             ],
             'particles/testimonial_owlcarousel' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/particles/testimonial_owlcarousel.yaml',
-                'modified' => 1589382956
+                'modified' => 1589424223
             ]
         ],
         'wp-content/themes/g5_helium/particles' => [
             'particles/contentcubes' => [
                 'file' => 'wp-content/themes/g5_helium/particles/contentcubes.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424227
             ],
             'particles/contenttabs' => [
                 'file' => 'wp-content/themes/g5_helium/particles/contenttabs.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424227
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/g5_helium/particles/copyright.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424227
             ],
             'particles/horizontalmenu' => [
                 'file' => 'wp-content/themes/g5_helium/particles/horizontalmenu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424227
             ],
             'particles/owlcarousel' => [
                 'file' => 'wp-content/themes/g5_helium/particles/owlcarousel.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424227
             ]
         ],
         'wp-content/plugins/gantry5/engines/nucleus/particles' => [
             'particles/analytics' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/analytics.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/assets' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/assets.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/branding' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/branding.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/content' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/content.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/contentarray' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/contentarray.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/copyright.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/custom' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/custom.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/date' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/frameworks' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/frameworks.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/lightcase' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/lightcase.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/loginform' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/loginform.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/logo' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/logo.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/menu' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/menu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/messages' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/messages.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/mobile-menu' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/mobile-menu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/position' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/position.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/social' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/social.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/spacer' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/spacer.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/totop' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/totop.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'particles/widget' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/particles/widget.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ]
         ],
         'wp-content/themes/g5_helium/blueprints' => [
             'content/archive/content' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/content.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/featured-image.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/heading' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/heading.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/meta-author.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/meta-categories.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/meta-comments.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/meta-date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/meta-tags.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/read-more' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/read-more.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/archive/title' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/archive/title.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/content' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/content.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/featured-image.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/heading' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/heading.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/meta-author.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/meta-categories.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/meta-comments.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/meta-date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/meta-tags.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/query' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/query.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/read-more' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/read-more.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/blog/title' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/blog/title.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/general/wpautop' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/general/wpautop.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/page/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/page/featured-image.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/page/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/page/meta-author.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/page/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/page/meta-date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/page/title' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/page/title.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/featured-image.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/meta-author.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/meta-categories.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/meta-comments.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/meta-date.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/meta-tags.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'content/single/title' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/content/single/title.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/above' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/above.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/accent' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/accent.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/base' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/base.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/breakpoints' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/breakpoints.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/expanded' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/expanded.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/features' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/features.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/font' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/font.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/footer' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/footer.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/header' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/header.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/intro' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/intro.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/link' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/link.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/menu' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/menu.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/navigation' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/navigation.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/offcanvas' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/offcanvas.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/testimonials' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/testimonials.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'styles/utility' => [
                 'file' => 'wp-content/themes/g5_helium/blueprints/styles/utility.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ]
         ],
         'wp-content/plugins/gantry5/engines/nucleus/blueprints' => [
             'page/assets' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/assets.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'page/body' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/body.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'page/fontawesome' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/fontawesome.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ],
             'page/head' => [
                 'file' => 'wp-content/plugins/gantry5/engines/nucleus/blueprints/page/head.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424216
             ]
         ]
     ],
     'data' => [
         'items' => [
-            'particles.headroom' => [
+            'particles.custom-onpic' => [
                 'type' => '_root',
                 'form_field' => false,
                 'form' => [
@@ -356,6 +364,47 @@ return [
                 'type' => '_parent',
                 'name' => 'particles',
                 'form_field' => false
+            ],
+            'particles.custom-onpic.enabled' => [
+                'type' => 'input.checkbox',
+                'label' => 'Enabled',
+                'description' => 'Globally enable the particle.',
+                'default' => true,
+                'name' => 'particles.custom-onpic.enabled'
+            ],
+            'particles.custom-onpic.image' => [
+                'type' => 'input.imagepicker',
+                'label' => 'Image for the background',
+                'description' => 'Select desired background image.',
+                'name' => 'particles.custom-onpic.image'
+            ],
+            'particles.custom-onpic.html' => [
+                'type' => 'textarea.textarea',
+                'label' => 'Custom HTML',
+                'description' => 'Enter custom HTML into here.',
+                'overridable' => false,
+                'name' => 'particles.custom-onpic.html'
+            ],
+            'particles.custom-onpic.twig' => [
+                'type' => 'input.checkbox',
+                'label' => 'Process Twig',
+                'description' => 'Enable Twig template processing in the content. Twig will be processed before shortcodes.',
+                'default' => '0',
+                'name' => 'particles.custom-onpic.twig'
+            ],
+            'particles.custom-onpic.filter' => [
+                'type' => 'input.checkbox',
+                'label' => 'Process shortcodes',
+                'description' => 'Enable shortcode processing / filtering in the content.',
+                'default' => '0',
+                'name' => 'particles.custom-onpic.filter'
+            ],
+            'particles.headroom' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    
+                ]
             ],
             'particles.headroom.enabled' => [
                 'type' => 'input.checkbox',
@@ -570,20 +619,24 @@ return [
                 'description' => 'Customize the title text.',
                 'name' => 'particles.spiro-card.title'
             ],
-            'particles.spiro-card.name' => [
-                'type' => 'input.text',
-                'name' => 'particles.spiro-card.name'
-            ],
             'particles.spiro-card.icon' => [
-                'type' => 'input.text',
-                'label' => 'Icon (fa-book)',
+                'type' => 'input.icon',
+                'label' => 'Icon',
+                'description' => 'A Font Awesome icon to be displayed.',
                 'name' => 'particles.spiro-card.icon'
             ],
             'particles.spiro-card.image' => [
                 'type' => 'input.imagepicker',
                 'label' => 'Image',
-                'description' => 'Select desired image.',
+                'description' => 'Select desired logo image.',
                 'name' => 'particles.spiro-card.image'
+            ],
+            'particles.spiro-card.height' => [
+                'type' => 'input.text',
+                'label' => 'Maximum Height',
+                'description' => 'Set image max. height in rem, em, px, or percentage unit values. Leave empty to use the default height.',
+                'pattern' => '\\d+(\\.\\d+){0,1}(rem|em|ex|ch|vw|vh|vmin|vmax|%|px|cm|mm|in|pt|pc)',
+                'name' => 'particles.spiro-card.height'
             ],
             'particles.spiro-card.imageposition' => [
                 'type' => 'select.select',
@@ -603,7 +656,7 @@ return [
                 'name' => 'particles.spiro-card.label'
             ],
             'particles.spiro-card.copy' => [
-                'type' => 'input.text',
+                'type' => 'textarea.textarea',
                 'label' => 'Copy',
                 'description' => 'Enter Some copy',
                 'name' => 'particles.spiro-card.copy'
@@ -638,6 +691,80 @@ return [
                     '_blank' => 'New Window'
                 ],
                 'name' => 'particles.spiro-card.buttontarget'
+            ],
+            'particles.spiro_picblock' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    
+                ]
+            ],
+            'particles.spiro_picblock.enabled' => [
+                'type' => 'input.checkbox',
+                'label' => 'Enabled',
+                'description' => 'Globally enable the particle.',
+                'default' => true,
+                'name' => 'particles.spiro_picblock.enabled'
+            ],
+            'particles.spiro_picblock.css' => [
+                'type' => '_parent',
+                'name' => 'particles.spiro_picblock.css',
+                'form_field' => false
+            ],
+            'particles.spiro_picblock.css.class' => [
+                'type' => 'input.text',
+                'label' => 'CSS Classes',
+                'description' => 'CSS class name for the particle.',
+                'name' => 'particles.spiro_picblock.css.class'
+            ],
+            'particles.spiro_picblock.title' => [
+                'type' => 'input.text',
+                'label' => 'Title',
+                'description' => 'Customize the title text.',
+                'name' => 'particles.spiro_picblock.title'
+            ],
+            'particles.spiro_picblock.image' => [
+                'type' => 'input.imagepicker',
+                'label' => 'Image',
+                'description' => 'Select desired image for background.',
+                'name' => 'particles.spiro_picblock.image'
+            ],
+            'particles.spiro_picblock.copy' => [
+                'type' => 'textarea.textarea',
+                'label' => 'Copy',
+                'description' => 'Enter Some copy',
+                'name' => 'particles.spiro_picblock.copy'
+            ],
+            'particles.spiro_picblock.link' => [
+                'type' => 'input.text',
+                'label' => 'Link',
+                'description' => 'Input the item link.',
+                'name' => 'particles.spiro_picblock.link'
+            ],
+            'particles.spiro_picblock.linktext' => [
+                'type' => 'input.text',
+                'label' => 'Link Text',
+                'description' => 'Input the text for the item link.',
+                'default' => '&rarr;',
+                'name' => 'particles.spiro_picblock.linktext'
+            ],
+            'particles.spiro_picblock.buttonclass' => [
+                'type' => 'input.text',
+                'label' => 'Button Class',
+                'description' => 'Input the button class.',
+                'default' => '',
+                'name' => 'particles.spiro_picblock.buttonclass'
+            ],
+            'particles.spiro_picblock.buttontarget' => [
+                'type' => 'select.selectize',
+                'label' => 'Button Target',
+                'description' => 'Target browser window when item is clicked.',
+                'default' => '_self',
+                'options' => [
+                    '_self' => 'Self',
+                    '_blank' => 'New Window'
+                ],
+                'name' => 'particles.spiro_picblock.buttontarget'
             ],
             'particles.testimonial_owlcarousel' => [
                 'type' => '_root',
@@ -4242,6 +4369,13 @@ return [
         ],
         'nested' => [
             'particles' => [
+                'custom-onpic' => [
+                    'enabled' => 'particles.custom-onpic.enabled',
+                    'image' => 'particles.custom-onpic.image',
+                    'html' => 'particles.custom-onpic.html',
+                    'twig' => 'particles.custom-onpic.twig',
+                    'filter' => 'particles.custom-onpic.filter'
+                ],
                 'headroom' => [
                     'enabled' => 'particles.headroom.enabled',
                     'cssselector' => 'particles.headroom.cssselector',
@@ -4278,9 +4412,9 @@ return [
                         'class' => 'particles.spiro-card.css.class'
                     ],
                     'title' => 'particles.spiro-card.title',
-                    'name' => 'particles.spiro-card.name',
                     'icon' => 'particles.spiro-card.icon',
                     'image' => 'particles.spiro-card.image',
+                    'height' => 'particles.spiro-card.height',
                     'imageposition' => 'particles.spiro-card.imageposition',
                     'label' => 'particles.spiro-card.label',
                     'copy' => 'particles.spiro-card.copy',
@@ -4288,6 +4422,19 @@ return [
                     'linktext' => 'particles.spiro-card.linktext',
                     'buttonclass' => 'particles.spiro-card.buttonclass',
                     'buttontarget' => 'particles.spiro-card.buttontarget'
+                ],
+                'spiro_picblock' => [
+                    'enabled' => 'particles.spiro_picblock.enabled',
+                    'css' => [
+                        'class' => 'particles.spiro_picblock.css.class'
+                    ],
+                    'title' => 'particles.spiro_picblock.title',
+                    'image' => 'particles.spiro_picblock.image',
+                    'copy' => 'particles.spiro_picblock.copy',
+                    'link' => 'particles.spiro_picblock.link',
+                    'linktext' => 'particles.spiro_picblock.linktext',
+                    'buttonclass' => 'particles.spiro_picblock.buttonclass',
+                    'buttontarget' => 'particles.spiro_picblock.buttontarget'
                 ],
                 'testimonial_owlcarousel' => [
                     'enabled' => 'particles.testimonial_owlcarousel.enabled',
@@ -4928,12 +5075,26 @@ return [
         ],
         'configuration' => [
             'particles' => [
+                'custom-onpic' => [
+                    'caching' => [
+                        'type' => 'config_matches',
+                        'values' => [
+                            'twig' => '0',
+                            'filter' => '0'
+                        ]
+                    ]
+                ],
                 'owlcarousel_spiro' => [
                     'caching' => [
                         'type' => 'static'
                     ]
                 ],
                 'spiro-card' => [
+                    'caching' => [
+                        'type' => 'static'
+                    ]
+                ],
+                'spiro_picblock' => [
                     'caching' => [
                         'type' => 'static'
                     ]

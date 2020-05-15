@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/spiro_base_wp/wp-content/themes/g5_helium/blueprints/content/blog/heading.yaml',
-    'modified' => 1588258328,
+    'modified' => 1589424224,
     'data' => [
         'name' => 'Blog Page Heading',
         'description' => 'Options for displaying Heading',

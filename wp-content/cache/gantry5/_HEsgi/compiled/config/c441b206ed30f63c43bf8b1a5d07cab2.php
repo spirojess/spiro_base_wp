@@ -1,158 +1,178 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1589384699,
-    'checksum' => 'f7af4d41afa83f78292e5786a7ed6fb4',
+    'timestamp' => 1589517714,
+    'checksum' => '000d987d07ddb98c8a31833731bc444d',
     'files' => [
         'wp-content/themes/_HEsgi/custom/config/home' => [
             'assignments' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/home/assignments.yaml',
-                'modified' => 1589383093
+                'modified' => 1589424223
             ],
             'index' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/home/index.yaml',
-                'modified' => 1589384691
+                'modified' => 1589517710
             ],
             'layout' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/home/layout.yaml',
-                'modified' => 1589384691
+                'modified' => 1589517710
+            ],
+            'styles' => [
+                'file' => 'wp-content/themes/_HEsgi/custom/config/home/styles.yaml',
+                'modified' => 1589517241
             ]
         ],
         'wp-content/themes/_HEsgi/custom/config/default' => [
             'index' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/index.yaml',
-                'modified' => 1589384691
+                'modified' => 1589426022
             ],
             'layout' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/layout.yaml',
-                'modified' => 1589384691
+                'modified' => 1589426022
             ],
             'particles/branding' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/branding.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/content' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/content.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/contentarray' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/contentarray.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/contentcubes' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/contentcubes.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/contenttabs' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/contenttabs.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/copyright.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/custom' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/custom.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/date' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/date.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/horizontalmenu' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/horizontalmenu.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/loginform' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/loginform.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/logo' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/logo.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/menu' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/menu.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/messages' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/messages.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/mobile-menu' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/mobile-menu.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/owlcarousel' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/owlcarousel.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/owlcarousel_spiro' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/owlcarousel_spiro.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/position' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/position.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/social' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/social.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/spacer' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/spacer.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/spiro-card' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/spiro-card.yaml',
-                'modified' => 1589384129
+                'modified' => 1589515578
+            ],
+            'particles/spiro_picblock' => [
+                'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/spiro_picblock.yaml',
+                'modified' => 1589515578
             ],
             'particles/testimonial_owlcarousel' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/testimonial_owlcarousel.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/totop' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/totop.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'particles/widget' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/particles/widget.yaml',
-                'modified' => 1589383647
+                'modified' => 1589515578
             ],
             'styles' => [
                 'file' => 'wp-content/themes/_HEsgi/custom/config/default/styles.yaml',
-                'modified' => 1589384324
+                'modified' => 1589424223
             ]
         ],
         'wp-content/themes/g5_helium/config/default' => [
             'page/body' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/page/body.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'particles/branding' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/branding.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/copyright.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'particles/logo' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/logo.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'particles/social' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/social.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ],
             'particles/totop' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/totop.yaml',
-                'modified' => 1588258328
+                'modified' => 1589424224
             ]
         ]
     ],
     'data' => [
         'particles' => [
+            'custom-onpic' => [
+                'caching' => [
+                    'type' => 'config_matches',
+                    'values' => [
+                        'twig' => '0',
+                        'filter' => '0'
+                    ]
+                ],
+                'enabled' => true,
+                'twig' => '0',
+                'filter' => '0'
+            ],
             'owlcarousel_spiro' => [
                 'caching' => [
                     'type' => 'static'
@@ -182,11 +202,27 @@ return [
                     'class' => ''
                 ],
                 'title' => '',
-                'name' => '',
                 'icon' => 'fa fa-atom',
                 'image' => '',
+                'height' => '',
                 'label' => 'Label',
                 'copy' => 'Copy',
+                'link' => ''
+            ],
+            'spiro_picblock' => [
+                'caching' => [
+                    'type' => 'static'
+                ],
+                'enabled' => '1',
+                'linktext' => '',
+                'buttonclass' => '',
+                'buttontarget' => '_self',
+                'css' => [
+                    'class' => ''
+                ],
+                'title' => '',
+                'image' => 'gantry-media://testimonials/img01.jpg',
+                'copy' => '',
                 'link' => ''
             ],
             'testimonial_owlcarousel' => [
@@ -734,7 +770,7 @@ return [
             ],
             'testimonials' => [
                 'background' => '#8f4dae',
-                'background-image' => 'gantry-media://2020/05/sandwich.jpg',
+                'background-image' => '',
                 'background-overlay' => 'disabled',
                 'text-color' => '#eceeef'
             ],
@@ -766,7 +802,7 @@ return [
         ],
         'index' => [
             'name' => 'home',
-            'timestamp' => 1589384691,
+            'timestamp' => 1589517710,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -793,11 +829,6 @@ return [
                 'offcanvas' => 'Offcanvas'
             ],
             'particles' => [
-                'spiro-card' => [
-                    'spiro-card-4220' => 'Spiro Card',
-                    'spiro-card-8148' => 'Spiro Card',
-                    'spiro-card-2274' => 'Spiro Card'
-                ],
                 'messages' => [
                     'system-messages-5507' => 'System Messages'
                 ],
@@ -811,12 +842,29 @@ return [
                 'social' => [
                     'social-5780' => 'Social'
                 ],
+                'spiro-card' => [
+                    'spiro-card-4220' => 'Spiro Card',
+                    'spiro-card-8148' => 'Spiro Card',
+                    'spiro-card-2274' => 'Spiro Card',
+                    'spiro-card-9089' => 'Spiro Card'
+                ],
+                'custom-onpic' => [
+                    'custom-onpic-8746' => 'Custom HTML on Picture',
+                    'custom-onpic-4462' => 'Custom HTML on Picture'
+                ],
                 'position' => [
                     'position-position-9572' => 'Aside',
                     'position-position-5850' => 'Sidebar'
                 ],
                 'content' => [
                     'system-content-5698' => 'Page Content'
+                ],
+                'spiro_picblock' => [
+                    'spiro_picblock-3555' => 'Spiro Picture Block',
+                    'spiro_picblock-1252' => 'Spiro Picture Block',
+                    'spiro_picblock-6659' => 'Spiro Picture Block',
+                    'spiro_picblock-7264' => 'Spiro Picture Block',
+                    'spiro_picblock-3861' => 'Spiro Picture Block'
                 ],
                 'copyright' => [
                     'copyright-8351' => 'Copyright'
@@ -834,26 +882,24 @@ return [
             'inherit' => [
                 'default' => [
                     'navigation' => 'navigation',
-                    'intro' => 'intro',
-                    'utility' => 'utility',
-                    'above' => 'above',
-                    'aside' => 'aside',
-                    'mainbar' => 'mainbar',
-                    'sidebar' => 'sidebar',
-                    'expanded' => 'expanded',
-                    'footer' => 'footer',
-                    'offcanvas' => 'offcanvas',
                     'system-messages-5507' => 'system-messages-7972',
                     'logo-2624' => 'logo-9608',
                     'menu-6646' => 'menu-6409',
                     'social-5780' => 'social-3171',
+                    'intro' => 'intro',
+                    'above' => 'above',
+                    'aside' => 'aside',
                     'position-position-9572' => 'position-position-4734',
+                    'mainbar' => 'mainbar',
                     'system-content-5698' => 'system-content-1587',
+                    'sidebar' => 'sidebar',
                     'position-position-5850' => 'position-position-3949',
+                    'footer' => 'footer',
                     'logo-8329' => 'logo-9571',
                     'copyright-8351' => 'copyright-1736',
                     'horizontalmenu-6115' => 'horizontalmenu-9034',
                     'totop-2097' => 'totop-8670',
+                    'offcanvas' => 'offcanvas',
                     'mobile-menu-5343' => 'mobile-menu-5697'
                 ]
             ]
@@ -882,8 +928,10 @@ return [
                         2 => 'spiro-card-2274 33.3'
                     ]
                 ],
-                'utility' => [
-                    
+                '/utility/' => [
+                    0 => [
+                        0 => 'custom-onpic-8746'
+                    ]
                 ],
                 'above' => [
                     
@@ -908,10 +956,19 @@ return [
                     ]
                 ],
                 '/testimonials/' => [
-                    
+                    0 => [
+                        0 => 'spiro_picblock-3555 25',
+                        1 => 'spiro_picblock-1252 25',
+                        2 => 'spiro_picblock-6659 25',
+                        3 => 'spiro_picblock-7264 25'
+                    ]
                 ],
-                'expanded' => [
-                    
+                '/expanded/' => [
+                    0 => [
+                        0 => 'spiro-card-9089 33.3',
+                        1 => 'custom-onpic-4462 33.3',
+                        2 => 'spiro_picblock-3861 33.3'
+                    ]
                 ],
                 'footer' => [
                     
@@ -960,13 +1017,10 @@ return [
                 ],
                 'utility' => [
                     'type' => 'section',
-                    'inherit' => [
-                        'outline' => 'default',
-                        'include' => [
-                            0 => 'attributes',
-                            1 => 'block',
-                            2 => 'children'
-                        ]
+                    'attributes' => [
+                        'boxed' => '2',
+                        'class' => '',
+                        'variations' => 'nomarginall nopaddingall'
                     ]
                 ],
                 'above' => [
@@ -1035,13 +1089,10 @@ return [
                 ],
                 'expanded' => [
                     'type' => 'section',
-                    'inherit' => [
-                        'outline' => 'default',
-                        'include' => [
-                            0 => 'attributes',
-                            1 => 'block',
-                            2 => 'children'
-                        ]
+                    'attributes' => [
+                        'boxed' => '',
+                        'class' => '',
+                        'variations' => ''
                     ]
                 ],
                 'footer' => [
@@ -1067,13 +1118,117 @@ return [
             ],
             'content' => [
                 'spiro-card-4220' => [
-                    'title' => 'Spiro Card'
+                    'title' => 'Spiro Card',
+                    'attributes' => [
+                        'css' => [
+                            'class' => 'box shadow'
+                        ],
+                        'title' => 'Spin Baby, Spin',
+                        'icon' => 'fa fa-bank fa-spin fa-lg',
+                        'height' => '44px',
+                        'link' => '/home',
+                        'linktext' => ''
+                    ],
+                    'block' => [
+                        'variations' => 'center'
+                    ]
                 ],
                 'spiro-card-8148' => [
-                    'title' => 'Spiro Card'
+                    'title' => 'Spiro Card',
+                    'attributes' => [
+                        'css' => [
+                            'class' => ''
+                        ],
+                        'title' => 'Title',
+                        'icon' => '',
+                        'image' => 'gantry-media://2020/05/acmelogo.svg',
+                        'height' => '44px',
+                        'copy' => 'Copy Goes Here. This is great.',
+                        'link' => '/home',
+                        'linktext' => 'Link'
+                    ],
+                    'block' => [
+                        'variations' => 'center'
+                    ]
                 ],
                 'spiro-card-2274' => [
-                    'title' => 'Spiro Card'
+                    'title' => 'Spiro Card',
+                    'attributes' => [
+                        'title' => 'Another Title',
+                        'icon' => '',
+                        'image' => 'gantry-media://testimonials/face.jpg',
+                        'height' => '22px'
+                    ]
+                ],
+                'custom-onpic-8746' => [
+                    'title' => 'Custom HTML on Picture',
+                    'attributes' => [
+                        'image' => 'gantry-media://2020/05/sandwich.jpg',
+                        'html' => '<h2>Heading TWO</h2>
+<p>This is a Paragraph - we can do anything with this that we want.</p>'
+                    ],
+                    'block' => [
+                        'variations' => 'center'
+                    ]
+                ],
+                'spiro_picblock-3555' => [
+                    'title' => 'Spiro Picture Block',
+                    'attributes' => [
+                        'title' => 'Title!!',
+                        'image' => 'gantry-media://2020/05/sandwich.jpg',
+                        'link' => '',
+                        'linktext' => ''
+                    ],
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
+                ],
+                'spiro_picblock-1252' => [
+                    'title' => 'Spiro Picture Block',
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
+                ],
+                'spiro_picblock-6659' => [
+                    'title' => 'Spiro Picture Block',
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
+                ],
+                'spiro_picblock-7264' => [
+                    'title' => 'Spiro Picture Block',
+                    'attributes' => [
+                        'title' => 'Title!!e',
+                        'image' => 'gantry-media://2020/05/sandwich.jpg',
+                        'copy' => 'Copy Copy Copy Too'
+                    ],
+                    'block' => [
+                        'variations' => 'equal-height center'
+                    ]
+                ],
+                'spiro-card-9089' => [
+                    'title' => 'Spiro Card',
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
+                ],
+                'custom-onpic-4462' => [
+                    'title' => 'Custom HTML on Picture',
+                    'attributes' => [
+                        'html' => ''
+                    ],
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
+                ],
+                'spiro_picblock-3861' => [
+                    'title' => 'Spiro Picture Block',
+                    'attributes' => [
+                        'title' => 'Heading/Title'
+                    ],
+                    'block' => [
+                        'variations' => 'equal-height'
+                    ]
                 ]
             ]
         ],
