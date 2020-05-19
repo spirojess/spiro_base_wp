@@ -17,5 +17,8 @@
 .onpic {
   padding: 22px;
   margin: 0px;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
 }
 /*# sourceMappingURL=custom.css.map */

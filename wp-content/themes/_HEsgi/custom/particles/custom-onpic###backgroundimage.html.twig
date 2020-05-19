@@ -1,0 +1,40 @@
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+  <div class="onpic {{ particle.css.class }}" style="position:relative; padding:0px; background-image: url({{ particle.image }});">
+    <div class="overlaypic" style="height: 100%;width: 100%;background-color: black;position: absolute;
+opacity: .4;"></div>
+    <div class="onpicopy" style="padding: 20px;">{% set html = particle.twig ? gantry.theme.compile(particle.html) : particle.html %}</div>
+    {{ (particle.filter ? gantry.platform.filter(html) : html)|html|raw }}
+  </div>
+{% endblock %}
+
+
+
+
+
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+  <div class="onpic {{ particle.css.class }}" style="position:relative; overflow:hidden; padding:0px;">
+    <img src="{{ particle.image }}" class="overlayimg" style="min-height:100%; min-width:100%; object-fit:cover; opacity: .3; position: absolute;"/>
+    <div class="onpicopy" style="padding: 20px;"> {% set html = particle.twig ? gantry.theme.compile(particle.html) : particle.html %}
+    {{ (particle.filter ? gantry.platform.filter(html) : html)|html|raw }}
+    </div>
+  </div>
+{% endblock %}
+
+
+
+{% extends '@nucleus/partials/particle.html.twig' %}
+
+{% block particle %}
+  <div class="onpic {{ particle.css.class }}" style="position:relative; padding:0px; background-image: url({{ particle.image }});">
+    <div class="overlaypic" style="height: 100%;width: 100%;background-color: white;position: absolute;opacity: .8;top: 0; bottom: 0; left: 0; right: 0; background-color:{{ particle.overlay.color}};opacity:{{ particle.overlay.opacity}};">
+    </div>
+    <div class="onpicopy" style="padding: 20px; color: black; color: {{particle.textcolor}}; ">{% set html = particle.twig ? gantry.theme.compile(particle.html) : particle.html %}
+    {{ (particle.filter ? gantry.platform.filter(html) : html)|html|raw }}
+    </div>
+
+  </div>
+{% endblock %}

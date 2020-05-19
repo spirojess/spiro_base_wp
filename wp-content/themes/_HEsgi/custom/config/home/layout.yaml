@@ -5,8 +5,14 @@ preset:
   timestamp: 1588258328
 layout:
   navigation: {  }
-  /header/: {  }
-  intro: {  }
+  /header/:
+    -
+      - owlcarousel-1279
+  /intro/:
+    -
+      - owlcarousel_spiro-5497
+    -
+      - custom-3635
   /features/:
     -
       - 'spiro-card-4220 33.3'
@@ -26,15 +32,17 @@ layout:
         'sidebar 25': {  }
   /testimonials/:
     -
+      - testimonial_owlcarousel-6773
+    -
       - 'spiro_picblock-3555 25'
       - 'spiro_picblock-1252 25'
       - 'spiro_picblock-6659 25'
       - 'spiro_picblock-7264 25'
   /expanded/:
     -
-      - 'spiro-card-9089 33.3'
+      - 'custom-onpic-4671 33.3'
+      - 'custom-onpic-2105 33.3'
       - 'custom-onpic-4462 33.3'
-      - 'spiro_picblock-3861 33.3'
   footer: {  }
   offcanvas: {  }
 structure:
@@ -53,12 +61,10 @@ structure:
       variations: ''
   intro:
     type: section
-    inherit:
-      outline: default
-      include:
-        - attributes
-        - block
-        - children
+    attributes:
+      boxed: ''
+      class: ''
+      variations: ''
   features:
     type: section
     attributes:
@@ -122,7 +128,7 @@ structure:
     attributes:
       boxed: ''
       class: ''
-      variations: ''
+      variations: 'nopaddingall nomarginall'
   footer:
     inherit:
       outline: default
@@ -138,6 +144,59 @@ structure:
         - block
         - children
 content:
+  owlcarousel-1279:
+    title: 'Owl Carousel'
+    attributes:
+      items:
+        -
+          class: ''
+          image: 'gantry-media://header/img01.jpg'
+          title: title
+          desc: 'description and text goes here.'
+          link: /link
+          linktext: 'link text'
+          buttonclass: button-outline
+          disable: '0'
+          name: 'New item'
+        -
+          class: ''
+          image: 'gantry-media://header/img01.jpg'
+          title: 'Title 2'
+          desc: 'desc. short - no link'
+          link: ''
+          linktext: ''
+          buttonclass: button-outline
+          disable: '0'
+          name: 'New item'
+  owlcarousel_spiro-5497:
+    title: 'Owl Carousel - Spiro'
+    attributes:
+      items:
+        -
+          class: ''
+          image: 'gantry-media://2020/05/sandwich.jpg'
+          title: Title
+          desc: 'Description text you can make this long'
+          link: ''
+          linktext: ''
+          buttonclass: button-outline
+          disable: '0'
+          name: 'New item'
+        -
+          class: ''
+          image: 'gantry-media://2020/05/hdr-pkg.jpg'
+          title: 'Title '
+          desc: 'Description with link'
+          link: /home
+          linktext: 'Link Text'
+          buttonclass: button-outline
+          disable: '0'
+          name: 'New item'
+  custom-3635:
+    title: 'Custom HTML'
+    attributes:
+      html: "<p>{{ function('wp_title', '|', true, 'right') }}</p>\n<p>{{ function('wp_title',' ', true, 'right') }}</p>"
+      twig: '1'
   spiro-card-4220:
     title: 'Spiro Card'
     attributes:
@@ -178,6 +237,47 @@ content:
       html: "<h2>Heading TWO</h2>\n<p>This is a Paragraph - we can do anything with this that we want.</p>"
     block:
       variations: center
+  testimonial_owlcarousel-6773:
+    title: 'Testimonials (owlcarousel)'
+    attributes:
+      class: ''
+      items:
+        -
+          class: ''
+          image: ''
+          client: Carl
+          namecredit: patient
+          quote: 'this is an awesome service and I can''t wasldkfjasdf sd ;lkajdflk afs;ldkjasd asd;lkj ad;lk a;l ds;lk jds;lk jads;lk jdas;lk jdaslk;fgj;qiweuoq;i jef;kajsiodhj fal kdsfd'
+          link: /link
+          linktext: linktext
+          buttonclass: button-outline
+          namebelow: '0'
+          disable: '0'
+          name: Testi-1
+        -
+          class: ''
+          image: ''
+          client: Patty
+          namecredit: doctor
+          quote: 'this is an awesome service and I can''t wasldkfjasdf sd ;lkajdflk afs;ldkjasd asd;lkj ad;lk a;l ds;lk jds;lk jads;lk jdas;lk jdaslk;fgj;qiweuoq;i jef;kajsiodhj fal kdsfd'
+          link: /link
+          linktext: linktext
+          buttonclass: button-outline
+          namebelow: '0'
+          disable: '0'
+          name: Testi-1
+        -
+          class: ''
+          image: ''
+          client: Kit
+          namecredit: ''
+          quote: 'this is an awesome service and I can''t wasldkfjasdf sd ;l'
+          link: /link
+          linktext: linktext
+          buttonclass: button-outline
+          namebelow: '0'
+          disable: '0'
+          name: Testi-1
   spiro_picblock-3555:
     title: 'Spiro Picture Block'
     attributes:
@@ -203,19 +303,30 @@ content:
       copy: 'Copy Copy Copy Too'
     block:
       variations: 'equal-height center'
-  spiro-card-9089:
-    title: 'Spiro Card'
+  custom-onpic-4671:
+    title: 'Custom HTML on Picture'
+    attributes:
+      overlaycolor: 'rgba(79, 79, 79, 0.65)'
+      textcolor: '#ffffff'
+      image: 'gantry-media://header/img01.jpg'
+      html: "<h2>Header or Title </h2>\n###subhead \nThis will be a lot\nmore texst\nthat I wan t \nto see if the other\ncolumns will\nstretch to fit"
+      twig: '1'
+    block:
+      variations: equal-height
+  custom-onpic-2105:
+    title: 'Custom HTML on Picture'
+    attributes:
+      overlaycolor: 'rgba(0, 0, 0, 0.53)'
+      image: 'gantry-media://2020/05/sandwich.jpg'
+      html: 'More text can us custom css'
     block:
       variations: equal-height
   custom-onpic-4462:
     title: 'Custom HTML on Picture'
     attributes:
-      html: ''
-    block:
-      variations: equal-height
-  spiro_picblock-3861:
-    title: 'Spiro Picture Block'
-    attributes:
-      title: Heading/Title
+      overlaycolor: 'rgba(255, 255, 255, 0.77)'
+      textcolor: '#160969'
+      image: 'gantry-media://2020/05/sandwich.jpg'
+      html: "Text to overlay\n"
     block:
       variations: equal-height

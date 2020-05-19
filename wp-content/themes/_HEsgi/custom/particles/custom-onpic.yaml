@@ -17,7 +17,14 @@ form:
       label: Enabled
       description: Globally enable the particle.
       default: true
-
+    overlaycolor:
+      type: input.colorpicker
+      label: Overlay Color - Choose Opacity Here
+      default: "#rgba(0, 0, 0, 0.44)"
+    textcolor:
+      type: input.colorpicker
+      label: Text Color
+      default: "#ffffff"
     image:
       type: input.imagepicker
       label: Image for the background

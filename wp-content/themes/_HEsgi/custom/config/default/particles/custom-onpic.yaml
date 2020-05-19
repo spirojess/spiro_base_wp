@@ -1,0 +1,6 @@
+enabled: '1'
+overlay-color: 'rgba(0, 0, 0, 0.45)'
+text-color: '#ffffff'
+image: ''
+twig: '0'
+filter: '0'
